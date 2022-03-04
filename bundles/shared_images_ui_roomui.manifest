@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1878434581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d9420edd3a4376aab4366f744be88cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/RoomUI/play_prestige_button.png
+- Assets/Images/UI/RoomUI/Plus_sign.png
+- Assets/Images/UI/RoomUI/counter_bar_base_short.png
+- Assets/Images/UI/RoomUI/hard_play_button.png
+- Assets/Images/UI/RoomUI/Play.png
+- Assets/Images/UI/RoomUI/attention.png
+- Assets/Images/UI/RoomUI/Common_bar_fill.png
+- Assets/Images/UI/RoomUI/super_hard_play_button.png
+- Assets/Images/UI/RoomUI/counter_bar_base.png
+Dependencies: []

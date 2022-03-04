@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2787017758
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcd0d8d8a25854c46382710acc767e0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/GetCool/Upgrades/banana_split_0.png
+Dependencies: []

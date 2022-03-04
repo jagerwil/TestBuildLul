@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3959826280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8391131f58dd0345f4f7a0a9f00be854
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DicedAtlases/Dialogs/Lia/Lia_001.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2633035472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7501f9c5f726ece722b7a22ffc305dd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/UpgradesWindow/UpgradeCard/Card_base_blue.png
+- Assets/Images/UI/Windows/UpgradesWindow/UpgradeCard/Card_base_orange.png
+Dependencies: []

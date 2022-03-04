@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3977161709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f882c12553acdf81fe036e0ed1fcf24b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/!Thirdparty/Spine/Runtime/spine-unity/Shaders/SkeletonGraphic/Spine-SkeletonGraphic.shader
+Dependencies: []

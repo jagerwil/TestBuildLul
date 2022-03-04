@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3557673283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0181a2a8ec18c89567eac6872b5ef597
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9f0360eb719f73bff66c7f329355104
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Tutorials/TutorialHand.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_tutorial_tutopial_hand

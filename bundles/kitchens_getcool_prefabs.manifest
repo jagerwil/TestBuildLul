@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 3010807586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21b400aed6e7205d6c062dabe12d222f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 585079d9053f41060aab29c6901955b7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0f55801e8964f0f843e9452abbe328f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3794154d0a4ccb8ed7fb4f44d18f46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36da86832f8f4a7997b86e105ad4b0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdd9b4f86ac4463daf6d063490185dc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31f2d7baed41a2840bc3f30a2008e8f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efef070b5ddf4be7996f253a54727a17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b62e31c76f7401191ed9fff8cf3d558, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dcf42df63214b88b4c0aa65af9702a1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_BurgerRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_StrawberryMilkshakeReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_BurgerRaw_to_BurgerReady.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_BurgerPlate.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_ChurrosAndBerriesReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_IceCreamMintReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/DishBuilding/Dish_IceCreamVanilla.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_IceCreamVanillaRaw_to_IceCreamVanillaReady.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_IceCreamMintRaw_to_IceCreamMintReady.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_IceCreamStrawberryRaw_to_IceCreamStrawberryReady.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/DishBuilding/Dish_IceCream_Mint.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_BurgerReady_to_BurgerBurnt.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/DishBuilding/Dish_Burger.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_IceCreamStrawberryReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_OiriReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_ChocolateMilkshakeRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_BurgerReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_BananaSplitReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_ChocolateMilkshakeRaw_to_ChocolateMilkshakeReady.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_BananaSplitRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_StrawberryMilkshakeRaw_to_StrawberryMilkshakeReady.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_IceCreamVanillaRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_Fries.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/StateModels/Food_BananaSplitRaw_to_BananaSplitReady.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_ChocolateMilkshakeReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_IceCreamMintRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/DishBuilding/Dish_IceCream_Strawberry.asset
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_IceCreamStrawberryRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_CookieAndWafflesReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_BurgerBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_StrawberryMilkshakeRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_IceCreamVanillaReady.prefab
+- Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_Soda.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials

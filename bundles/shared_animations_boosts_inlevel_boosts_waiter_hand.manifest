@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1988404634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20f9a6db2881f4d4d20d4b23dd1a13e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9166cbb11327b580a49ae01351dd44ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/Boosts/inlevel_boosts/waiter_hand/waiter_hand.json
+- Assets/Animations/Boosts/inlevel_boosts/waiter_hand/waiter_hand_Material.mat
+- Assets/Animations/Boosts/inlevel_boosts/waiter_hand/waiter_hand.png
+- Assets/Animations/Boosts/inlevel_boosts/waiter_hand/waiter_hand_Atlas.asset
+- Assets/Animations/Boosts/inlevel_boosts/waiter_hand/waiter_hand_SkeletonData.asset
+- Assets/Animations/Boosts/inlevel_boosts/waiter_hand/waiter_hand.atlas.txt
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

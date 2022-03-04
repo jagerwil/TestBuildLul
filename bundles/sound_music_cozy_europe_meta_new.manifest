@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2936428426
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e2ee0f8fce68627ebae8fe5bb6aa55b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Music/Cozy_Europe_Meta_New.ogg
+Dependencies: []

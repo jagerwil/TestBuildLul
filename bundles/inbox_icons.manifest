@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3361337720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8526ccc0e515f20ac06c76d6288facf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9e855c92fc022beb59b938978221693
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae2bbdd886e31b2409a49e88ff78d5b1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Inbox/Icons/InboxSpriteSetup.asset
+Dependencies: []

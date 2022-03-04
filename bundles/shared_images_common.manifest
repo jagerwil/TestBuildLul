@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 750282943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc137cb17f552e36c25704815740d556
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DicedAtlases/Dialogs/Joshua/Joshua_001.png
+- Assets/Images/UI/Windows/ShopWindow/Sliced/buy_button_OFF_3S.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_bundle.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_bundle_off.png
+- Assets/Images/UI/Windows/NoAdsPack/light.png
+- Assets/DicedAtlases/Dialogs/Joshua/Joshua_003.png
+- Assets/Images/UI/Windows/TasksWindow/window_ads.png
+- Assets/Images/Common/Boosts_IT/Tasty_time.png
+- Assets/Images/UI/Windows/NoAdsPack/coins_1.png
+- Assets/Images/UI/Windows/ShopWindow/Sliced/hint_icon.png
+- Assets/Images/UI/Windows/NoAdsPack/coins_2.png
+- Assets/Images/Common/Boosts_IT/Waiter_off.png
+- Assets/DicedAtlases/Dialogs/Joshua/Joshua_002.png
+- Assets/Images/UI/Windows/ShopWindow/Sliced/hint_bubble.png
+- Assets/Images/Common/empty.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_boost.png
+- Assets/Images/UI/Windows/NoAdsPack/bag_pac_L.png
+- Assets/Images/UI/Windows/Common/Jane.png
+- Assets/Images/Common/Boosts_IT/boost_lock.png
+- Assets/Images/Restaurants/GoodMorning/Kitchen/Scene_IT/pepper_patch.png
+- Assets/Images/UI/Windows/ShopWindow/Sliced/ADS_notification_base_3S.png
+- Assets/Images/Common/Boosts_IT/15_seconds.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_hit.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_hit_off.png
+- Assets/DicedAtlases/Sources/Dialogs/Joshua/Joshua_scary.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_hard.png
+- Assets/Images/Common/Boosts_IT/Tasty_time_off.png
+- Assets/Images/UI/Windows/NoAdsPack/coins_3.png
+- Assets/Images/Common/Boosts_IT/Waiter.png
+- Assets/Images/UI/Windows/EpisodesWindow/arrow_down.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_soft_off.png
+- Assets/Images/Common/Boosts_IT/+1_person.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_boost_off.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_hard_off.png
+- Assets/Images/UI/Windows/ShopWindow/Filters/filter_soft.png
+- Assets/Images/UI/Windows/Common/avatar_base.png
+- Assets/Images/Common/empty4x4.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2269302775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0395e582a0932a6195ed920a2315878d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Events/SubscribersEvent/Icons/char_kitty_boy.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/icon_gift_1.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/icon_gift_3.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/char_business_lady.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/char_cool_guy.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/icon_gift_2.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/char_flowers.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/char_yoga_mama.png
+- Assets/Images/UI/Events/SubscribersEvent/Icons/icon_event.png
+Dependencies: []

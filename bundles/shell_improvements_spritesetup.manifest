@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2264747701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dddca88325f15930f0aabfbb331efb51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f15b3503da7af5f8a60b822cc912d689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fba7dd0a0c439094f93375939d928372, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Rooms/Improvements/Shell_ImprovementsSpriteSetup.asset
+Dependencies: []

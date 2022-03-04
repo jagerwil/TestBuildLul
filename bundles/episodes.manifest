@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1238529229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e704ba822b2df5ab4cdfda8b568707e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87312ed54557ed8f43540502d0f656c4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a027ea4990048959af937148cb3955d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bf2a019343343bea36d56364e9d8c7f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Episodes/Bellissimo_EpisodeCardSpriteSetup.asset
+- Assets/Prefabs_AB/Episodes/HealthyDay_EpisodeCardSpriteSetup.asset
+- Assets/Prefabs_AB/Episodes/Shell_EpisodeCardSpriteSetup.asset
+- Assets/Prefabs_AB/Episodes/GetCool_EpisodeCardSpriteSetup.asset
+- Assets/Prefabs_AB/Episodes/EpisodesSpriteSetup.asset
+- Assets/Prefabs_AB/Episodes/GoodMorning_EpisodeCardSpriteSetup.asset
+Dependencies: []

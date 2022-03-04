@@ -1,0 +1,193 @@
+ManifestFileVersion: 0
+CRC: 1408742716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23d666c457a06d3363b93e3bf520d1ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f004991072f9e6e86bf30f15b0a74995
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be6de600a5b30f84cae8938a2e6fe800, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda61f701b1b4ffabc67b2dc1f49e7ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bfdce90cd12aa3449b1098f34a10a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64a0d7b09adc4fa59440b7511a66c559, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1cabab15650473ebc762c3c06a24880, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 325bf782d8b954da68dffb9422594416, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ada32927c35448c9852e26d1434c902, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d3933132f24951419c5e154bfa96fc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8be5514d96b4448a39e01085fa020d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ff943846a4b48c299052cff9fada7d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce3f1805d86f9a448a40ab1b8cf133f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ab9d065918748108b71e30f0df0af33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18552ac5801b4fea869ea20e26859e84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42d5d8a6fdbc7a8428b0dac72d72b723, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16f0b0b6d0b7542bfbd20a3e05b04ff1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e1c68b68eed402caccb6af1000b3d20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cb02db63a67ad24584743179ab28dbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc2f4c1793ce471ca66df1faa0f013a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d821d2a776157438d9f7ea47c3cc8140, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80b176180042e044384c1ba18e760470, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e71c918b7cb43b38bbaa2bbca5b65e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85c85068cbc08fb4494df38bac554f9c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd93b168df2c47b469b0803efc7cc8d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20c8e649239a2439fb69578fa70468cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e88d869a7172834da5b7252282b1158, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e40b5c792e5159647bb27135205d9684, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1423914a2b4f30445949633f405ad98f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3d8ac8a12e5c034a9b832896d216aeb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6146a39a2dbcfe940825afd763b990f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec191e0b5c484c1588baeddf8332efd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bf98c5bce096a74aa4a797b3bac33b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c958d8bfab648faa64c3d3dca6a9515, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1327f84c9b1d7434a9b37033668bd5d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7a8115cb6ee4b73a6d0a139dd71fed4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59daabec4e7dd3c49ac47a347d67bcf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb77e8fc851074d1da4681e30941bdd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 558b109da67a27b4686138b955f3a7e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3db97fd8907d3d49aae8deb4d5a9d02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbc1dc1e7ed2dab4e9cc234851f85296, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03dce14ed07c5457ea054a490ec7a56d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e995306e2713d4ace9a4f92c2f6d377f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c804e6e427f407692ded266ecb6238e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afbfeb8eb8a13dd4693043ed6bc3cb48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 111a45ae38d54fa6bd7b65eb6eeffeae, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Common/Room/Windows/InboxWindow.prefab
+- Assets/Prefabs_AB/Common/Room/Windows/EndOfContentWindow.prefab
+- Assets/Prefabs_AB/Common/Room/Windows/TasksWindow.prefab
+- Assets/Prefabs_AB/Common/Room/Windows/ImprovementWindow.prefab
+- Assets/Prefabs_AB/Common/Room/Windows/DailyRewardWindow.prefab
+- Assets/Prefabs_AB/Common/Room/Windows/EndEpisodeWindow.prefab
+- Assets/Prefabs_AB/Common/Room/Windows/TaskRewardWindow.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/common_kitchen_windows
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/common_windows
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_uiparticlesystem_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_dailyrewardwindow_check_mark
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/windows

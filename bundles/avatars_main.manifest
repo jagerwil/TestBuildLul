@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1090538754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b886e83211e09dca9f719c0de9d08ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 639a861335711339f573142ff36d492b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b82a683bb2e08634a87e6fb4cd0ea80b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Avatars/Main/AvatarSpriteSetup.asset
+Dependencies: []

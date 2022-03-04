@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3955343583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 038884c9cd85c8e0b83343075e9c5164
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b994e838e0ba618d14a51ee3e35c45ea
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f1b3e6011624afdaa2ad3b2bba1b607, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f069d192fed54669994fb237ed91680, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3e961cc31ba4849ac2c2f79a91b0afe, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Common/RewardAssetsHolder.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons_shopicons
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common

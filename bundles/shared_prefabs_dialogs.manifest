@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3767582319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07cf657928150422765638a8e561538c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02be06b346f8bfc98f746ce4a8943d38
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd3aaa9baa96044028df3af3a3748141, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Dialogs/DialogCharacterView.prefab
+Dependencies: []

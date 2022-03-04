@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2030204741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4ea2be5eb3f46dbbd4e9d5225a6a616
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f5a8e5fa2f3a597bfd5da238527ad75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c063c210f24f4787b0ef3f0bed2bdb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd3aaa9baa96044028df3af3a3748141, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b76ff73e582c745a09e44297a279f13f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Dialogs/DialogsCharacters/GetCool/Aizek.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs

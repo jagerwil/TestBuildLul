@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 3931123682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d1077e245d185d230f790a644b4c55b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c5f10787d1bf620ab9a1bb5b03e5808
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0f55801e8964f0f843e9452abbe328f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532559c11aa56844381e689d140e58b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1ff1184d6844e2a9d670be888b5e435, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3794154d0a4ccb8ed7fb4f44d18f46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36da86832f8f4a7997b86e105ad4b0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdd9b4f86ac4463daf6d063490185dc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efef070b5ddf4be7996f253a54727a17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59ec259b1ded5704d964a955ca730ca1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b62e31c76f7401191ed9fff8cf3d558, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 908ee22ebfab485db1d49de799168bbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dcf42df63214b88b4c0aa65af9702a1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Kitchens/Bellissimo/StateModels/Food_PizzaBaseRaw_to_PizzaBaseReady.asset
+- Assets/Prefabs_AB/Kitchens/Bellissimo/DishBuilding/Dish_Pasta.asset
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PastaReady.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PastaBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/StateModels/Food_PastaRaw_to_PastaReady.asset
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_CoffeeReady.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PastaRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_Cheese.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_CoffeeRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_Basil.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PastaPlate.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/StateModels/Food_PastaReady_to_PastaBurnt.asset
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_Pepperoni.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_Bacon.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_Tomato.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/DishBuilding/Dish_Pizza.asset
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PizzaBaseBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_Pineapple.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/StateModels/Food_CoffeeRaw_to_CoffeeReady.asset
+- Assets/Prefabs_AB/Kitchens/Bellissimo/StateModels/Food_PizzaBaseReady_to_PizzaBaseBurnt.asset
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PizzaBaseRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PizzaBaseReady.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2488162036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a19fdc77c87736d6b4cfe6f84818b873
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Icons/ShopIcons/NoADS_icon.png
+- Assets/Images/UI/Icons/ShopIcons/icon_champion_pack.png
+Dependencies: []

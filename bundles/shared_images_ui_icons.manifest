@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3683795098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 427ba4f81da159fed6395e725a229685
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Icons/icon_resource_energy.png
+- Assets/Images/UI/Icons/icon_resource_prestige.png
+- Assets/Images/UI/Icons/icon_resource_hard_mirror.png
+- Assets/Images/UI/Icons/icon_resource_hard.png
+- Assets/Images/UI/Icons/icon_resource_soft.png
+- Assets/Images/UI/Icons/counter_bar_endless.png
+- Assets/Images/UI/Icons/icon_puzzle.png
+- Assets/Images/UI/Icons/icon_resource_star_2.png
+Dependencies: []

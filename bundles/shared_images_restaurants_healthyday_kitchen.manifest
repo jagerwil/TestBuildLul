@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 174527308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6968f37a82f7d00d9167db5dd5a70e06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Soup_IT/soup_cooking_IT/soup_raw_1.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Soup_IT/soup_cooking_IT/soup_raw_2.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Soup_IT/soup_cooking_IT/soup_done_2.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Matcha-Latte_IT/matcha_cup_empty_2.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Matcha-Latte_IT/matcha_cup_empty_1.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Soup_IT/soup_cooking_IT/soup_done_1.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Smoothie_IT/smoothie_glass_ful.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Soup_IT/soup_cooking_IT/soup_burnt.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Soup_IT/plate.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Matcha-Latte_IT/matcha_cup_ful_1.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Matcha-Latte_IT/milk.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Matcha-Latte_IT/matcha_cup_ful_2.png
+- Assets/Images/Restaurants/HealthyDay/Kitchen/Dish_fish_IT/dish_plate.png
+Dependencies: []

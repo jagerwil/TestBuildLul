@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1177127726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 205f26a234e95ca5801ed15021250b54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a54a2c7f47aa410c418e0a97264e235d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9de1314a6647954f9db0bae245ff056, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8be5514d96b4448a39e01085fa020d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee6de355d4d11124881ca5ff1eb82c48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6eb349566df0ba142ba9457eeac17e36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d821d2a776157438d9f7ea47c3cc8140, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6146a39a2dbcfe940825afd763b990f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c804e6e427f407692ded266ecb6238e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/UI/Events/SubscribersEventUI.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_events_subscribersevent_icons
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

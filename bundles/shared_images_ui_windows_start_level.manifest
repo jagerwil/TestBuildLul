@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3360272504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb01b56ab92201e375f47f0e7a58714b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/Start_Level/Boost_base_none.png
+- Assets/Images/UI/Windows/Start_Level/Boost_base.png
+- Assets/Images/UI/Windows/Start_Level/Boost_base_picked.png
+Dependencies: []

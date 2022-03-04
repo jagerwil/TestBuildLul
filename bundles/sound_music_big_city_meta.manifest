@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2145526782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec3425d382acc59a3a8b2f670bcab195
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Music/Big_City_Meta.ogg
+Dependencies: []

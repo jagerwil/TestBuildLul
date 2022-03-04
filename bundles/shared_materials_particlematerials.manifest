@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1973217595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb8a1716dca2e554a7bfc7ea9bb313fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/ParticleMaterials/ImprovementCircle.mat
+- Assets/Materials/ParticleMaterials/circle.mat
+- Assets/Materials/ParticleMaterials/smoke.mat
+- Assets/Materials/ParticleMaterials/circle02.mat
+- Assets/Materials/ParticleMaterials/ImprovementCircle2.mat
+- Assets/Materials/ParticleMaterials/SparkInstaboost.mat
+- Assets/Materials/ParticleMaterials/bubbles_thick.mat
+- Assets/Materials/ParticleMaterials/smoke_texture.png
+- Assets/Materials/ParticleMaterials/hl3.mat
+- Assets/Materials/ParticleMaterials/circle03_blurred.mat
+- Assets/Materials/ParticleMaterials/hi1.mat
+- Assets/Materials/ParticleMaterials/SparkReward.mat
+- Assets/Materials/ParticleMaterials/circle03.mat
+- Assets/Materials/ParticleMaterials/Star.mat
+- Assets/Materials/ParticleMaterials/smoke_material.mat
+- Assets/Materials/ParticleMaterials/base.mat
+- Assets/Materials/ParticleMaterials/smoke2.mat
+- Assets/Materials/ParticleMaterials/hl4.mat
+- Assets/Materials/ParticleMaterials/steam.mat
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_uiparticlesystem_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_particlesprites
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_particlesprites

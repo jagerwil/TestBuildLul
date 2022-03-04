@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 4052601350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f1c31e74b5f7d9c50c795ba5765bc47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40be55d1420be1fb60d88d47a044ad78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0f55801e8964f0f843e9452abbe328f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3794154d0a4ccb8ed7fb4f44d18f46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36da86832f8f4a7997b86e105ad4b0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdd9b4f86ac4463daf6d063490185dc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31f2d7baed41a2840bc3f30a2008e8f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efef070b5ddf4be7996f253a54727a17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b62e31c76f7401191ed9fff8cf3d558, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6dd36afc4423b894fa8b0aaa5b04b1bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dcf42df63214b88b4c0aa65af9702a1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Kitchens/GoodMorning/StateModels/Food_MuffinRaw_to_MuffinReady.asset
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_FriedEggsPlate.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_MuffinRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_Tomatoes.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_FriedEggsRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/StateModels/Food_FriedEggsRaw_to_FriedEggsReady.asset
+- Assets/Prefabs_AB/Kitchens/GoodMorning/StateModels/Food_JuiceRaw_to_JuiceReady.asset
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_JuiceRaw.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_MuffinReady.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/DishBuilding/Dish_Muffin.asset
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_Sausages.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_MuffinPlate.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_FriedEggsReady.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_FriedEggsBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_Toasts.prefab
+- Assets/Prefabs_AB/Kitchens/GoodMorning/StateModels/Food_FriedEggsReady_to_FriedEggsBurnt.asset
+- Assets/Prefabs_AB/Kitchens/GoodMorning/DishBuilding/Dish_FriedEggs.asset
+- Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_JuiceReady.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_kitchen
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_kitchen_food
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo

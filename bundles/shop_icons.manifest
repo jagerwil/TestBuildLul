@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1333201629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71d60850b4837849e88c9558a57561ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 126ae82cf070bbc6c7f9225d2d426e1e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 011af500a9ebc01489681e2178d6189b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Shop/Icons/ShopIconSetup.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons_shopicons

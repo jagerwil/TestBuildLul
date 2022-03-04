@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3797578452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d264c37653dc6611285cd627d74340f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/!Thirdparty/SuperBlur/Shader/SuperBlurUI.shader
+- Assets/!Thirdparty/SuperBlur/Shader/SuperBlurPostEffect.shader
+Dependencies: []

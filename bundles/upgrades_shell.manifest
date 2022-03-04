@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 1358509043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16c37749c9d7fe61c3ee1878e879d382
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a30fa9006769480b8e3a24291799b911
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda61f701b1b4ffabc67b2dc1f49e7ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd99eca027ddc46a7adba271b012e4c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64a0d7b09adc4fa59440b7511a66c559, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46aa67d04187e45cd8c2866eb75cfbde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d821d2a776157438d9f7ea47c3cc8140, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e71c918b7cb43b38bbaa2bbca5b65e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 302b4148ec9fb4f2397b3a08614022ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87e98cba0bb204c649ee65c19ec3cae2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d86220ba9d47431e9db93dc8ffa9fdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec191e0b5c484c1588baeddf8332efd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afbfeb8eb8a13dd4693043ed6bc3cb48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a93549ae5bbe54116ab968c195e250cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fd78aee9a14f491e9ee7eaa5966a437, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 910af9bfaef6545e692287d554fb3f8a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Upgrades/Shell/Shell_UpgradeDialogCharacter.prefab
+- Assets/Prefabs_AB/Upgrades/Shell/Shell_UpgradesPuzzle.prefab
+- Assets/Prefabs_AB/Upgrades/Shell/Shell_UpgradesSpriteSetup.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades_puzzlechunksvariants

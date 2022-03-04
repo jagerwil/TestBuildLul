@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3381649303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b35f591bc6008137b69fb9c52ed35c88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/!Thirdparty/Spine/GUI/AtlasAsset Icon.png
+- Assets/!Thirdparty/Spine/GUI/SkeletonDataAsset Icon.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2885401072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8be9fd70a04e002dbfe5b50c48b841ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9166cbb11327b580a49ae01351dd44ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/Coins_combo/combo_coins.atlas.txt
+- Assets/Animations/Coins_combo/combo_coins_SkeletonData.asset
+- Assets/Animations/Coins_combo/combo_coins_Material.mat
+- Assets/Animations/Coins_combo/combo_coins.json
+- Assets/Animations/Coins_combo/combo_coins_Atlas.asset
+- Assets/Animations/Coins_combo/combo_coins.png
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

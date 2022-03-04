@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1993935701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d71ba73af0acb03c4cdd247015e0f4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/!Thirdparty/SuperBlur/Material/SuperBlurPostEffect.mat
+- Assets/!Thirdparty/SuperBlur/Material/SuperBlurUI.mat
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_superblur_shader

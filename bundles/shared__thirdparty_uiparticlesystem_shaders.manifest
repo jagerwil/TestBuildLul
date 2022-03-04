@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3336834270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cf741c3ce1f61957c84a3044a670d81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/!Thirdparty/UIParticleSystem/Shaders/UIAdditive.shader
+Dependencies: []

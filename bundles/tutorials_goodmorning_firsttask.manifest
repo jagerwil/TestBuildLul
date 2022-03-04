@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2877858451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebe5abb9cf63933f2cd0f579f8f7dba3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e74a49752c50e012e98d90a8f36fe96
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 357d214dd06df41e7bfce133af286666, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Tutorials/GoodMorning/FirstTask.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_tutorials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_tutorials_defaultjane
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

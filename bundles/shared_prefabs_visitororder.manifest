@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 88572729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4e3b177103eebe62962c8cc54983864
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be965dad951e0f82d304c2bcd3008786
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda61f701b1b4ffabc67b2dc1f49e7ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64a0d7b09adc4fa59440b7511a66c559, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8ce6f71d78a4fe5967aec5acf24fb14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79b4df81838b469d82045e2ee2879012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 052d15b1c9f247da83324f59dc055b8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 445b18825c8ad4246b10ec4270c5791f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ed4b0332bc34eb3b86dd4c8e54415d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94269d25968c4076a3c759f2a2c48669, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0271a24797eb4186a7374551a3eb619e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ff43277485b4a12bb1fd734ea6095f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a92ca487197f0db47aad2cb77cb3b776, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75b66cc8feb1b490c930856e94ab98ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92667ec92c417f54c9b13a5d1579e728, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62b2ab3b5c074fd384b271d74cb7ebad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6748067b033e9415a987ba9d10e9701e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afbfeb8eb8a13dd4693043ed6bc3cb48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d49797fb58d485c9ebfc7d0050f1125, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53e7168f1eb404d92b1457653b6b31b4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/VisitorOrder/TipsView.prefab
+- Assets/Prefabs/VisitorOrder/VisitorOrderController.prefab
+- Assets/Prefabs/VisitorOrder/OrderItem.prefab
+- Assets/Prefabs/VisitorOrder/VisitorController.prefab
+- Assets/Prefabs/VisitorOrder/VisitorsHolder.prefab
+- Assets/Prefabs/VisitorOrder/OrderView.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_bar
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_ecoboost
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_coins_combo
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_kitchen_sliced
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

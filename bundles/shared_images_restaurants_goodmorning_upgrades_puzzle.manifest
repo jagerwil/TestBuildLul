@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3557090645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 240fff75272c018acfc429a79d88466c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/GoodMorning/Upgrades/Puzzle/1.png
+Dependencies: []

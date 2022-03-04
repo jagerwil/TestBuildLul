@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2259768598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d92528d3232126490d01cc789693c512
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Dialogs/Bellissimo/Bobby/Bobby_happy.png
+- Assets/Images/Dialogs/Bellissimo/Bobby/Bobby_sad.png
+- Assets/Images/Dialogs/Bellissimo/Bobby/Bobby_thinking.png
+- Assets/Images/Dialogs/Bellissimo/Bobby/Bobby_extra.png
+- Assets/Images/Dialogs/Bellissimo/Bobby/Bobby_angry.png
+Dependencies: []

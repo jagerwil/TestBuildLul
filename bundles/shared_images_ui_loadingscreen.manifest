@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3908610311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95f2d6bbd38bdb5734df735fddf7ee07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/LoadingScreen/progress-bar_fill.png
+- Assets/Images/UI/LoadingScreen/progress-bar_fill_base.png
+- Assets/Images/UI/LoadingScreen/progress_bar_base2.png
+Dependencies: []

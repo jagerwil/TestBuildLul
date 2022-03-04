@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1344758787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b45fd361f6d601b22717027d18805b6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Common/Cooking_IT/Cooking_Cutting.ogg
+- Assets/Sounds/Common/UI_IT/Interior_Roller.ogg
+- Assets/Sounds/Common/Music_IT/Reward_music.ogg
+- Assets/Sounds/Common/UI_IT/DailyReward_IT/Crown_Appear.ogg
+- Assets/Sounds/Common/UI_IT/DailyReward_IT/Progress_Up.ogg
+- Assets/Sounds/Common/UI_IT/DailyReward_IT/Progress_Down.ogg
+- Assets/Sounds/Common/SFX_IT/Unlock_Upgrade.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_GasStove.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Blender.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_FryingClosed.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Ingredient.ogg
+- Assets/Sounds/Common/SFX_IT/Bubble_Appear.ogg
+- Assets/Sounds/Common/UI_IT/Cleaning.ogg
+- Assets/Sounds/Common/Music_IT/Room_Transformation.ogg
+- Assets/Sounds/Common/Music_IT/Level_lose.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Trash.ogg
+- Assets/Sounds/Common/UI_IT/DailyReward_IT/Hearts_Flying.ogg
+- Assets/Sounds/Common/UI_IT/Flying_Soft.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Fridge.ogg
+- Assets/Sounds/Common/UI_IT/Window_Open.ogg
+- Assets/Sounds/Common/UI_IT/DailyReward_IT/Crown_Disappear.ogg
+- Assets/Sounds/Common/UI_IT/Button_Activation.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_FryingPan.ogg
+- Assets/Sounds/Common/UI_IT/Interior_Checkmark.ogg
+- Assets/Sounds/Common/UI_IT/DailyReward_IT/Play_Everyday_Reward.ogg
+- Assets/Sounds/Common/SFX_IT/Combo_5.ogg
+- Assets/Sounds/Common/SFX_IT/Combo_2.ogg
+- Assets/Sounds/Common/UI_IT/Tutor_zone.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Oven.ogg
+- Assets/Sounds/Common/Empty.ogg
+- Assets/Sounds/Common/Music_IT/Level_win.ogg
+- Assets/Sounds/Common/SFX_IT/Clock.ogg
+- Assets/Sounds/Common/SFX_IT/Combo_1.ogg
+- Assets/Sounds/Common/Atmosphere_Street.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Ice.ogg
+- Assets/Sounds/Common/UI_IT/Interior_Chosing.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Juicer.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Grill.ogg
+- Assets/Sounds/Common/UI_IT/DailyReward_IT/Card_Turn.ogg
+- Assets/Sounds/Common/UI_IT/Flying_Hard.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_ElectricGrill.ogg
+- Assets/Sounds/Common/UI_IT/Button_Deactivation.ogg
+- Assets/Sounds/Common/UI_IT/Flying_Reward.ogg
+- Assets/Sounds/Common/SFX_IT/Combo_3.ogg
+- Assets/Sounds/Common/SFX_IT/Tip.ogg
+- Assets/Sounds/Common/SFX_IT/Combo_4.ogg
+- Assets/Sounds/Common/UI_IT/Rewards.ogg
+- Assets/Sounds/Common/SFX_IT/Bubble_Tip.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_FoodBurned.ogg
+- Assets/Sounds/Common/SFX_IT/Bubble.ogg
+- Assets/Sounds/Common/UI_IT/Window_Close.ogg
+- Assets/Sounds/Common/UI_IT/Progress.ogg
+- Assets/Sounds/Common/UI_IT/Interior_Location.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Boiling.ogg
+- Assets/Sounds/Common/SFX_IT/Bell.ogg
+- Assets/Sounds/Common/Cooking_IT/Cooking_Drink.ogg
+Dependencies: []

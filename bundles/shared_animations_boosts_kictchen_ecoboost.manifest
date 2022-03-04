@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2277997934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c1e74a5f17e2e081910cff724a4575c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9166cbb11327b580a49ae01351dd44ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/Boosts/kitchen_ecoboost/skeleton_SkeletonData.asset
+- Assets/Animations/Boosts/kitchen_ecoboost/skeleton.json
+- Assets/Animations/Boosts/kitchen_ecoboost/skeleton_Atlas.asset
+- Assets/Animations/Boosts/kitchen_ecoboost/skeleton.png
+- Assets/Animations/Boosts/kitchen_ecoboost/skeleton_Material.mat
+- Assets/Animations/Boosts/kitchen_ecoboost/skeleton.atlas.txt
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

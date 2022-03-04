@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3024115626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b208cec08eeaf3c79847604b65bcab9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Music/Retro_Level.ogg
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3544024585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2de94cd693128b0debf29986ffc053dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Common/Boosts_IT/Nonstick_coating_locked.png
+- Assets/Images/Common/Boosts_IT/Nonstick_coating.png
+- Assets/Images/Common/Boosts_IT/Second_chance.png
+- Assets/Images/Common/Boosts_IT/30_seconds.png
+- Assets/Images/Common/Boosts_IT/Double_price_locked.png
+- Assets/Images/Common/Boosts_IT/Second_chance_locked.png
+- Assets/Images/Common/Boosts_IT/30_seconds_locked.png
+- Assets/Images/Common/Boosts_IT/Instant_chef.png
+- Assets/Images/Common/Boosts_IT/Double_price.png
+- Assets/Images/Common/Boosts_IT/+3_people_locked.png
+- Assets/Images/Common/Boosts_IT/Instant_chef_locked.png
+- Assets/Images/Common/Boosts_IT/+3_people.png
+Dependencies: []

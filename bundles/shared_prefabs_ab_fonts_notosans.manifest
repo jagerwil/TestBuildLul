@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1588511657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6206f8780bd306d4ef04377baa6e3bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a96a5b982b2446e105e8e596b78ccd1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Gray Outline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Green Thick Outline (Light).mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Blue NoOutline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Green Thick Outline (Dark).mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold.ttf
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Red Outline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Orange Thin Outline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Black NoOutline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF.asset
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Orange Outline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Blue Outline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF WinWindow.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Brown Outline.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Material SoftVerticalMask.mat
+- Assets/Prefabs_AB/Fonts/NotoSans/NotoSans-Bold SDF Green Thick Outline.mat
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_resources_shaders

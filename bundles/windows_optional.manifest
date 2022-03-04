@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 2849645678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e05cb6b0477837cfd0b140ee856b0fe1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c7b5ec8fd43ea0af0070847b1997258b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64a0d7b09adc4fa59440b7511a66c559, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8be5514d96b4448a39e01085fa020d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ff943846a4b48c299052cff9fada7d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81dd9ad55aba74db399066710198783b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abcf9c46c648c12478ae4aa9bc0258a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e71c918b7cb43b38bbaa2bbca5b65e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6146a39a2dbcfe940825afd763b990f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec191e0b5c484c1588baeddf8332efd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bb4161bde8d32d419b2ea0cdbbf8f4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 385cf81b28b883a4cad813d498c2cd8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdfbdd4d56362354ab6cd7b4fec71923, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c804e6e427f407692ded266ecb6238e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afbfeb8eb8a13dd4693043ed6bc3cb48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9aa445fff36565f4bb26c7f5c89b11e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Windows/Optional/SubscribersEventSubscriberView.prefab
+- Assets/Prefabs_AB/Windows/Optional/SubscribersEventRewardView.prefab
+- Assets/Prefabs_AB/Windows/Optional/SubscribersEventWindow.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/common_kitchen_windows
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_ui_giftbox
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_events_subscribersevent_levelstart
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_boosterwindow
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/windows_rewardhint

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3111391536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b6551fb0b52e50dcc7f81c31eacc6c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/Shell/Kitchen/octopus_dish_IT/octopus_ingredients_IT/mushroom_muer_1.png
+- Assets/Images/Restaurants/Shell/Kitchen/oysters_dish_IT/oystres_ingredients_IT/lemon_2.png
+- Assets/Images/Restaurants/Shell/Kitchen/octopus_dish_IT/octopus_ingredients_IT/mushroom_muer_2.png
+- Assets/Images/Restaurants/Shell/Kitchen/octopus_dish_IT/octopus_plate.png
+- Assets/Images/Restaurants/Shell/Kitchen/octopus_dish_IT/grill_for_octopus_IT/octopus_2_raw.png
+- Assets/Images/Restaurants/Shell/Kitchen/truffles_dish_IT/fridge_IT/truffles_fridge_close_2.png
+- Assets/Images/Restaurants/Shell/Kitchen/scallops_dish_IT/scallops_plate.png
+- Assets/Images/Restaurants/Shell/Kitchen/truffles_dish_IT/fridge_IT/truffles_fridge_close_1.png
+- Assets/Images/Restaurants/Shell/Kitchen/octopus_dish_IT/grill_for_octopus_IT/octopus_1_raw.png
+- Assets/Images/Restaurants/Shell/Kitchen/bubbles_IT/scallop_puree_1.png
+- Assets/Images/Restaurants/Shell/Kitchen/octopus_dish_IT/grill_for_octopus_IT/octopus_2_done.png
+- Assets/Images/Restaurants/Shell/Kitchen/oysters_dish_IT/oystres_ingredients_IT/crouton_3.png
+- Assets/Images/Restaurants/Shell/Kitchen/oysters_dish_IT/oystres_ingredients_IT/crouton_1.png
+- Assets/Images/Restaurants/Shell/Kitchen/bubbles_IT/scallop_2.png
+- Assets/Images/Restaurants/Shell/Kitchen/scallops_dish_IT/scallop_2.png
+- Assets/Images/Restaurants/Shell/Kitchen/oysters_dish_IT/oystres_ingredients_IT/lemon_1.png
+- Assets/Images/Restaurants/Shell/Kitchen/scallops_dish_IT/scallop_1.png
+- Assets/Images/Restaurants/Shell/Kitchen/bubbles_IT/scallop_1.png
+- Assets/Images/Restaurants/Shell/Kitchen/bubbles_IT/scallop_puree_2.png
+- Assets/Images/Restaurants/Shell/Kitchen/oysters_dish_IT/oysters_plate.png
+- Assets/Images/Restaurants/Shell/Kitchen/oysters_dish_IT/oystres_ingredients_IT/lemon_3.png
+- Assets/Images/Restaurants/Shell/Kitchen/oysters_dish_IT/oystres_ingredients_IT/crouton_2.png
+- Assets/Images/Restaurants/Shell/Kitchen/truffles_dish_IT/truffles_shell_3.png
+- Assets/Images/Restaurants/Shell/Kitchen/octopus_dish_IT/grill_for_octopus_IT/octopus_1_done.png
+- Assets/Images/Restaurants/Shell/Kitchen/truffles_dish_IT/fridge_IT/truffles_fridge_close_3.png
+Dependencies: []

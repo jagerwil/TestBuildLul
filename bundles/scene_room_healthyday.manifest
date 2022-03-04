@@ -1,0 +1,158 @@
+ManifestFileVersion: 0
+CRC: 2396856006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23a4f66bbfaca6aca17617f7f7da7bbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb9b6e28c18f13369ca26ce5050c4279
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f05f28a0ac3d4cd9b623a7b1338f6920, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db082bc0b6ae1974da347021c30929c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56224cc16bf5a8344ac07a08a9d293c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e92048f1cfc8569449477567ae0ce72f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48b75102c0529e5429b1429c79e4adb5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e49bd32d3ea1c64aae3f00fa6e3ecae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b677a75277144c39b1a39d593be8a9bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53c78d62635dc9343b50d63a031f1169, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6665eaa2e84912d44b16bff626ba10ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea017ba206494d940ab663e1b311701a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f13194d2204c64fcda5fdd191c43e13e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e26c4534e9144bb48d38b8e2004e5e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6bc9e7377b21bc41ae5652de4a992e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7ae609359e524427ad285bcf24067d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70c991b3d32e86c41b5c76d926aa8545, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a3714c3e51b149ef9fafc493eca9642, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a018ad44dad2243ca81905c6c50fc5f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 150f0095f11842c69b90286c8d3f4177, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d88144b509a44ab4b9158343bfe520a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18552ac5801b4fea869ea20e26859e84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af79cab6ff594426aa54ed6f3bb41fca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d64b4fb6fd2354b608f7e6c8f678b901, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85592dc62cec487994adfd24dab6f9ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e239e37fd284838a52382f315220a47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 488bb077bcc645a9a1bebf2d16aba31b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2e3a5978a784a738a9043b2e2307423, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d821d2a776157438d9f7ea47c3cc8140, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b00850833f714c879b6860767b2b4b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2564448b7a60406cae6847a961cba48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb665ed867d76934abe24417ed71d303, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31d9cf590289642f08b844801323010e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 822efff9f3d3db04aaed7426df8b1e95, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45db251ad56e34781aba5f0e7a0f681a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52028f2d03704dc78ae633caae6c80d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0440dc0e338e4d848991af686ad65243, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf4f3d1f8dbb947438f77108b1682ec5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Room_HealthyDay.unity
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_duster
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_indoor_broom
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems

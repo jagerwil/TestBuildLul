@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 957996726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 831691cb19ae4f93819b287700cf591e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/SpriteRevealBeam.mat
+- Assets/Materials/ColorFillUI.mat
+- Assets/Materials/NewItemEffectStar.mat
+- Assets/Materials/SpriteStepBare.mat
+- Assets/Materials/SpriteRevealCircular.mat
+- Assets/Materials/HoleMaterial.mat
+- Assets/Materials/UpgradeDeliveredEffect.mat
+- Assets/Materials/Shaders/UI-Default_ColorFill.shader
+- Assets/Materials/Shaders/HoleShader.shader
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_sliced
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_particlesprites
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_shaders_reveal

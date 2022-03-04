@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1526888188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c531dcaf968db6a95278bc848cf56501
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Dialogs/Common/Backs/street.jpg
+- Assets/Images/Dialogs/Common/Backs/office.jpg
+- Assets/Images/Dialogs/Common/Backs/phone_call.png
+Dependencies: []

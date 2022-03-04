@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 170464740
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d55e04ac131615a8615988ac7ef00fa3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e52968df991b81da07df3dbac47910e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0f55801e8964f0f843e9452abbe328f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3dce015b04047b3b2fbdb57b138621a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3794154d0a4ccb8ed7fb4f44d18f46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36da86832f8f4a7997b86e105ad4b0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdd9b4f86ac4463daf6d063490185dc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31f2d7baed41a2840bc3f30a2008e8f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efef070b5ddf4be7996f253a54727a17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59ec259b1ded5704d964a955ca730ca1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b62e31c76f7401191ed9fff8cf3d558, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dcf42df63214b88b4c0aa65af9702a1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_FriedFishReady.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/DishBuilding/Dish_PumpkinSoup.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_FriedFishBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/StateModels/Food_FriedFishRaw_to_FriedFishReady.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/StateModels/Food_SmoothieRaw_to_SmoothieReady.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_SmoothieReady.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/StateModels/Food_PumpkinSoupRaw_to_PumpkinSoupReady.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/DishBuilding/Dish_FriedFish.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_FriedFishRaw.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_FriedFishPlate.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_MatchaReady.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_PumpkinSoupPlate.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_SmoothieRaw.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/StateModels/Food_MatchaRaw_to_MatchaReady.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/DishBuilding/Dish_Matcha.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_Avocado.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_PumpkinSoupBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_Vegetables.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/StateModels/Food_PumpkinSoupReady_to_PumpkinSoupBurnt.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/StateModels/Food_FriedFishReady_to_FriedFishBurnt.asset
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_Quinoa.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_PumpkinSoupRaw.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_PumpkinSoupReady.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_PumpkinSeeds.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_Milk.prefab
+- Assets/Prefabs_AB/Kitchens/HealthyDay/Foods/Food_MatchaRaw.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_healthyday_kitchen
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials

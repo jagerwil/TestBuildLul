@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1203771381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31cf9c7b557287272a2871a32773644d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 69e0a61bbd4ae59172b3e75fda49fcd8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0d4ae9550a79dc4496629fb011892cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e71c918b7cb43b38bbaa2bbca5b65e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 357d214dd06df41e7bfce133af286666, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afbfeb8eb8a13dd4693043ed6bc3cb48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Tutorials/GoodMorning/LikeLevel.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_resources_shaders
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_tutorials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_tutorials_defaultjane
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

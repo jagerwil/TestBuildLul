@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3189053848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77f6dcf317194eb53f2f9119e186f352
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/Common/SpiderWeb/spider_web_4.png
+- Assets/Images/Restaurants/Common/SpiderWeb/spider_web_2.png
+- Assets/Images/Restaurants/Common/SpiderWeb/spider_web_6.png
+- Assets/Images/Restaurants/Common/SpiderWeb/spider_web_5.png
+- Assets/Images/Restaurants/Common/SpiderWeb/spider_web_3.png
+- Assets/Images/Restaurants/Common/SpiderWeb/spider_web_1.png
+Dependencies: []

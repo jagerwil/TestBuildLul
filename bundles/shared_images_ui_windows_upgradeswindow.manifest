@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2867111937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ace6c1c98440ca73c9bd1414aafff229
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/UpgradesWindow/upgrade_small_base_locked_9S.png
+- Assets/Images/UI/Windows/UpgradesWindow/pip.png
+Dependencies: []

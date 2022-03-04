@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 631557744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0129342542c6ec81df0cbb6621dab46b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/!Thirdparty/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Screen.shader
+- Assets/!Thirdparty/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Additive.shader
+- Assets/!Thirdparty/Spine/Runtime/spine-unity/Shaders/BlendModes/Spine-Skeleton-PMA-Multiply.shader
+Dependencies: []

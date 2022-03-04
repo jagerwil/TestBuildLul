@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 890252531
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 800fcae2b179da2f4572716966ff5813
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Start_Screen/UI/Properties_icon.png
+Dependencies: []

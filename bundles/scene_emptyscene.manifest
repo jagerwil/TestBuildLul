@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 202576918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f67242ece8230f98634fbedc09e264dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b611e928007cf7c0c6e51dba11cf770
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e92048f1cfc8569449477567ae0ce72f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b677a75277144c39b1a39d593be8a9bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea017ba206494d940ab663e1b311701a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e26c4534e9144bb48d38b8e2004e5e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6bc9e7377b21bc41ae5652de4a992e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70c991b3d32e86c41b5c76d926aa8545, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/EmptyScene.unity
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera

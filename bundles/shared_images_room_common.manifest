@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 908342672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a0dd3d789137b957bec257ba1f94a4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Room/Common/fog.png
+- Assets/Images/Room/Common/Lock_Back_3S.png
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 384984921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a08ff3d28658322a99ed18d32ab631a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 700b89b6c6d8c0b250118a598d64ba40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 357d214dd06df41e7bfce133af286666, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Tutorials/GoodMorning/FirstUpgrade_Kitchen.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_tutorials_defaultjane

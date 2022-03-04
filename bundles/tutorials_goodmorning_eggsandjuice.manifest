@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1149426082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77f7ff6943412626ce22bb4d3b4586ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e74a49752c50e012e98d90a8f36fe96
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 357d214dd06df41e7bfce133af286666, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Tutorials/GoodMorning/EggsAndJuice.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_tutorials_defaultjane

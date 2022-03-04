@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2651996116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6adaf01e785f4b657317e12f2eba81cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Common/LevelTarget_IT/LevelTarget_Likes.png
+- Assets/Images/Common/LevelTarget_IT/LevelTarget_Dishes.png
+- Assets/Images/Common/LevelTarget_IT/LevelTarget_Money.png
+Dependencies: []

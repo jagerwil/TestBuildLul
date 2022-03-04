@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 2972651369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a07ef56f649a983edd1b83b25c08b651
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3f7785b07fb905237abd3d638f8709e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be6de600a5b30f84cae8938a2e6fe800, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ba799725ced24205a32bc693017f599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d3933132f24951419c5e154bfa96fc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81dd9ad55aba74db399066710198783b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e71c918b7cb43b38bbaa2bbca5b65e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85c85068cbc08fb4494df38bac554f9c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd93b168df2c47b469b0803efc7cc8d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c7dd97b3b0c3417fb11cfda1fec4efa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a2c292eff3264267b95215508744807, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Windows/RewardHint/RewardRaw.prefab
+- Assets/Prefabs_AB/Windows/RewardHint/RewardHint_SubscribersEventWindow.prefab
+- Assets/Prefabs_AB/Windows/RewardHint/RewardHint_TasksWindow.prefab
+- Assets/Prefabs_AB/Windows/RewardHint/HintRewardItemView.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_sliced
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/windows

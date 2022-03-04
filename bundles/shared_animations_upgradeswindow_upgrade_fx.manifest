@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2331484765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77b6305d97de30e46e77145aea621759
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9166cbb11327b580a49ae01351dd44ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx.png
+- Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx.json
+- Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx.atlas.txt
+- Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx_Material.mat
+- Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx_SkeletonData.asset
+- Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx_Atlas.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

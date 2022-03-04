@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1883203311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 640268e6305b13b708c2ddfbd5fffb22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Kitchen/Sliced/Bubble_IT/bubble_3slice.png
+- Assets/Images/UI/Kitchen/Sliced/Bubble_IT/shape_for_progressbar.png
+- Assets/Images/UI/Kitchen/Sliced/closed_base.png
+- Assets/Images/UI/Kitchen/Sliced/Bubble_IT/shape_for_progressbar_top.png
+- Assets/Images/UI/Kitchen/Sliced/Bubble_IT/bubble_progress_bar_fill.png
+- Assets/Images/UI/Kitchen/Sliced/Bubble_IT/bubble_progress_bar_fill_top.png
+- Assets/Images/UI/Kitchen/Sliced/Bubble_IT/shape_for_glow_bubble.png
+Dependencies: []

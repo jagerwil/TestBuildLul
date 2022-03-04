@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 828873491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af70da03a6d2a28f9d307c5af2c77957
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e196d19995a53e10300c534551e66b1b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed2833a1dc8e4151bc34332427365f13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 371b9ed2b9f84f609cf1b24d1e646d57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7801f93b11f5af4fa1ac19091525e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f071b84436104462d9d4ab4d47ddacad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f46b78450c44aa7884616f7189d377e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eeb772852f11b4e95a99bdeb562ee3a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18552ac5801b4fea869ea20e26859e84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8f65b7783b84cd7a2f88e7f699d1b6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2e3a5978a784a738a9043b2e2307423, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dc1fe0804dbe4914b5366e17ffeb9bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc09ee78201744008c7be1afd2e85114, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a505f882264aa298f11dff021114fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31d9cf590289642f08b844801323010e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6eaff2cefd244b2a06b79fefe8f92d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d60e21fe96d64853a60d6c6313bf2a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1c0461f82e7405abd387d087181815e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Restaurant/Kitchen/KitchenUICanvas.prefab
+- Assets/Prefabs/Restaurant/Kitchen/NoOvercookboost.prefab
+- Assets/Prefabs/Restaurant/Kitchen/Pools.prefab
+- Assets/Prefabs/Restaurant/Kitchen/ComboSounds.prefab
+- Assets/Prefabs/Restaurant/Kitchen/InstantCookingBoost.prefab
+- Assets/Prefabs/Restaurant/Kitchen/DoubleCoinBoost.prefab
+- Assets/Prefabs/Restaurant/Kitchen/KitchenSounds.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_waiter_hand
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_ecoboost
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_non_stick
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_scullion
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems

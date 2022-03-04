@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1324328864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c150fd5969d2988754580b0b25188a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Tutorials/DefaultJane/Tutor_Jane_Think.png
+- Assets/Images/UI/Tutorials/DefaultJane/Tutor_Jane_Here_we_are.png
+- Assets/Images/UI/Tutorials/DefaultJane/Tutor_Jane_Idle.png
+Dependencies: []

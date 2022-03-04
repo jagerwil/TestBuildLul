@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3785648359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7802bf406fde89d10c69f83db750d9b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb025ec2f0a1fd8d0b18813846e852c9
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f1b3e6011624afdaa2ad3b2bba1b607, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee6de355d4d11124881ca5ff1eb82c48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a061d38856fb4ef2bf0c94753080a777, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1423914a2b4f30445949633f405ad98f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13fd6a8fd6584e9d8bb6881079eba3b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Common/SubscribersEventAssetsHolder.asset
+- Assets/Prefabs_AB/Common/BoosterAssetsHolder.asset
+- Assets/Prefabs_AB/Common/LevelLimitAssetsHolder.asset
+- Assets/Prefabs_AB/Common/LevelTargetAssetsHolder.asset
+- Assets/Prefabs_AB/Common/TasksIconsHolder.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_30_seconds
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_3_people
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_double_price
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_tasty_time
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_waiter
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_instant_chef
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_nonstick_coating
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_second_chance
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_boosts
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_limits
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_events_subscribersevent_icons
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons_taskicons
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_kitchen

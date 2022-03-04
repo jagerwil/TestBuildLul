@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1887588886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdbb7ddefc51a6bae7df38b20fa50d9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5253b6222bb884e91e3c373de84a2b4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c063c210f24f4787b0ef3f0bed2bdb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd3aaa9baa96044028df3af3a3748141, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b76ff73e582c745a09e44297a279f13f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Dialogs/DialogsCharacters/Bellissimo/Bobby.prefab
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_characters_bob
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_dialogcharacters_bellissimo_bobby
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs

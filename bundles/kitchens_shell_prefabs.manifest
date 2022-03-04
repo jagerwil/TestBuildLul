@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 2414606220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abb1dc7eac2712cd988df1dd8a04723a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ffccf1752a22346e6e3b91326b0948a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0f55801e8964f0f843e9452abbe328f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3dce015b04047b3b2fbdb57b138621a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b3794154d0a4ccb8ed7fb4f44d18f46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36da86832f8f4a7997b86e105ad4b0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdd9b4f86ac4463daf6d063490185dc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31f2d7baed41a2840bc3f30a2008e8f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efef070b5ddf4be7996f253a54727a17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59ec259b1ded5704d964a955ca730ca1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b62e31c76f7401191ed9fff8cf3d558, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6dd36afc4423b894fa8b0aaa5b04b1bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dcf42df63214b88b4c0aa65af9702a1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_OctopusBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_ScallopRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_TruffleRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_Crouton.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_OctopusReady.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_OctopusRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/StateModels/Food_OctopusRaw_to_OctopusReady.asset
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_LeekPuree.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_MuerMushroom.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_OysterRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_ScallopReady.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/DishBuilding/Dish_Octopus.asset
+- Assets/Prefabs_AB/Kitchens/Shell/StateModels/Food_ScallopReady_to_ScallopBurnt.asset
+- Assets/Prefabs_AB/Kitchens/Shell/StateModels/Food_TruffleRaw_to_TruffleReady.asset
+- Assets/Prefabs_AB/Kitchens/Shell/StateModels/Food_BeetrootPureeRaw_to_BeetrootPureeReady.asset
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_ScallopBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_OctopusPlate.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/DishBuilding/Dish_Scallop.asset
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_OysterReady.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/StateModels/Food_OysterRaw_to_OysterReady.asset
+- Assets/Prefabs_AB/Kitchens/Shell/StateModels/Food_OctopusReady_to_OctopusBurnt.asset
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_TruffleReady.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_BeetrootPureeRaw.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_Lemon.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_BeetrootPureeReady.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_BeetrootPureeBurnt.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/DishBuilding/Dish_Oyster.asset
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_ScallopPlate.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/Foods/Food_Caviar.prefab
+- Assets/Prefabs_AB/Kitchens/Shell/StateModels/Food_ScallopRaw_to_ScallopReady.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_shell_scallop_sauce_the_plate
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_shell_kitchen
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials

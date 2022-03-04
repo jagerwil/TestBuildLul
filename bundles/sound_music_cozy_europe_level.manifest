@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3447356845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be9f9b949402f695b35576a9ef6e7d77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Music/Cozy_Europe_Level.ogg
+Dependencies: []

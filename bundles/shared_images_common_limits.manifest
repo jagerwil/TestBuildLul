@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 377170591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5617f505326c6a2cdbcd60ba34531286
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Common/Limits_IT/Don't_sad_off.png
+- Assets/Images/Common/Limits_IT/Don't_throw_off.png
+- Assets/Images/Common/Limits_IT/Don't_throw.png
+- Assets/Images/Common/Limits_IT/dont_burn_off.png
+- Assets/Images/Common/Limits_IT/dont_burn.png
+- Assets/Images/Common/Limits_IT/Don't_sad.png
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3351442195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0483d2eb8ab338f97a6e36bb4e4607b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/Lose_LastChance/star.png
+Dependencies: []

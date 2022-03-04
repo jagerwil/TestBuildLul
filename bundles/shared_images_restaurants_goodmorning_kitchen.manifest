@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1914963424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a95ff5f33555ebbba8e5bd48e9b26a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/GoodMorning/Kitchen/FriedEggs_IT/Cooking_IT/Pan_eggs_1.png
+- Assets/Images/Restaurants/GoodMorning/Kitchen/Bubble_IT/Juice_1.png
+- Assets/Images/Restaurants/GoodMorning/Kitchen/Bubble_IT/Juice_2.png
+- Assets/Images/Restaurants/GoodMorning/Kitchen/FriedEggs_IT/Cooking_IT/Pan_eggs_2.png
+- Assets/Images/Restaurants/GoodMorning/Kitchen/FriedEggs_IT/Cooking_IT/Pan_burnt_eggs.png
+Dependencies: []

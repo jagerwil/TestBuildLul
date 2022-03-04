@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 960087700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60379ba45f40e2d8f4e62a40f1fb90c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Events/SubscribersEvent/LevelStart/time_icon.png
+- Assets/Images/UI/Events/SubscribersEvent/LevelStart/event_icon_progress_bar_3S.png
+Dependencies: []

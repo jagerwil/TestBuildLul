@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3066315269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d972560432777b55ee789ddbb7401194
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Common/Sliced/RewardHint_IT/pop-up-pointer.png
+- Assets/Images/Common/Sliced/RewardHint_IT/pop-up-9S.png
+- Assets/Images/Common/Sliced/Hole_9S.png
+Dependencies: []

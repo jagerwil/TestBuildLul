@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4129664050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 766320eab2bce46e20b13637df3468a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b31d6181a2e80529ffce4e6e477c0599
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 357d214dd06df41e7bfce133af286666, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae65ff3e76f19894b91ca057b792ba94, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs_AB/Tutorials/GoodMorning/Waiter.asset
+Dependencies:
+- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_tutorials_defaultjane

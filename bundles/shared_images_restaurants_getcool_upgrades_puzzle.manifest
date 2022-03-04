@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2060577857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a34e2b62b5ea874ad1969fe1f154c99e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/GetCool/Upgrades/Puzzle/Puzzle_Result.png
+- Assets/Images/Restaurants/GetCool/Upgrades/Puzzle/15.png
+- Assets/Images/Restaurants/GetCool/Upgrades/Puzzle/14.png
+Dependencies: []

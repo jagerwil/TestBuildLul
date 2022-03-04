@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2365489250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffc9eb08fbfac43a26015829c05f1b58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/Common/window_base_9S.png
+- Assets/Images/UI/Windows/Common/ad_button_3S.png
+- Assets/Images/UI/Windows/Common/red_button_3S.png
+- Assets/Images/UI/Windows/Common/icon_play_video.png
+- Assets/Images/UI/Windows/Common/boost_counter_none.png
+- Assets/Images/UI/Windows/Common/AD_counter_notifications.png
+- Assets/Images/UI/Windows/Common/blue_button_3S.png
+- Assets/Images/UI/Windows/Common/icon_endless.png
+- Assets/Images/UI/Windows/Common/green_button_3S.png
+- Assets/Images/UI/Windows/Common/button_green.png
+- Assets/Images/UI/Windows/Common/boost_counter_Picked.png
+- Assets/Images/UI/Windows/Common/back.png
+- Assets/Images/UI/Windows/Common/window_second_base_9S.png
+- Assets/Images/UI/Windows/Common/boost_counter_picked_3S.png
+- Assets/Images/UI/Windows/Common/present_button.png
+- Assets/Images/UI/Windows/Common/prestige_counter_3S.png
+- Assets/Images/UI/Windows/Common/boost_counter_3S.png
+- Assets/Images/UI/Windows/Common/coin.png
+Dependencies: []

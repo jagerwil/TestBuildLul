@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1278371718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff7137a463065db7df497d4e8a26cc10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/WinWindow/HardLevel/super_hard_reward_base.png
+- Assets/Images/UI/Windows/WinWindow/HardLevel/hard_reward_counter_3S.png
+- Assets/Images/UI/Windows/WinWindow/HardLevel/super_hard_reward_counter_3S.png
+- Assets/Images/UI/Windows/WinWindow/HardLevel/hard_reward_base.png
+Dependencies: []

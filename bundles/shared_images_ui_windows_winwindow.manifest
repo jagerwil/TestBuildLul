@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3950639783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb99cfb3135926763b89c890d1bde2cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea7b176478fe89b786ab1f7304b0c891
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/WinWindow/TMP_Color_Gradient.asset
+- Assets/Images/UI/Windows/Common/reward_base.png
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3293321931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbbc454476d946714551f95140d47e72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Icons/TaskIcons/Pet_food.png
+- Assets/Images/UI/Icons/TaskIcons/Table_decor.png
+- Assets/Images/UI/Icons/TaskIcons/Bench.png
+- Assets/Images/UI/Icons/TaskIcons/Feeder.png
+- Assets/Images/UI/Icons/TaskIcons/Textile.png
+- Assets/Images/UI/Icons/TaskIcons/Light.png
+- Assets/Images/UI/Icons/TaskIcons/Bird_feeder.png
+- Assets/Images/UI/Icons/TaskIcons/Car.png
+- Assets/Images/UI/Icons/TaskIcons/Table.png
+- Assets/Images/UI/Icons/TaskIcons/Floor_decor.png
+- Assets/Images/UI/Icons/TaskIcons/Menu.png
+- Assets/Images/UI/Icons/TaskIcons/Broom.png
+- Assets/Images/UI/Icons/TaskIcons/Couch.png
+- Assets/Images/UI/Icons/TaskIcons/Sign.png
+- Assets/Images/UI/Icons/TaskIcons/Furniture.png
+- Assets/Images/UI/Icons/TaskIcons/Repair.png
+- Assets/Images/UI/Icons/TaskIcons/Flower.png
+- Assets/Images/UI/Icons/TaskIcons/Wall_decor.png
+- Assets/Images/UI/Icons/TaskIcons/Roller.png
+- Assets/Images/UI/Icons/TaskIcons/Scooter.png
+- Assets/Images/UI/Icons/TaskIcons/Bush.png
+- Assets/Images/UI/Icons/TaskIcons/Aquarium.png
+Dependencies: []
