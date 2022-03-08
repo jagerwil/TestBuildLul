@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3097599075
+CRC: 2808677700
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee2a0bb89697b1e7c89ebeba9e17d78f
+    Hash: 575280e963543904164f797d9a2a2825
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c4e937fded975621be28cad50040e921
+    Hash: 06d5a54506261096fe380ba54a78d8c4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,9 +42,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
@@ -231,9 +231,10 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Kitchen_GetCool.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen_gizmo
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_visitororder
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen_gizmo
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_visitororder

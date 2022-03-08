@@ -3,7 +3,7 @@ CRC: 408686676
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 358e26b80c0ee7dafb5a57c6cb9b8e1f
+    Hash: f7d47a727e2ebc33bfe086563b3f8b83
   TypeTreeHash:
     serializedVersion: 2
     Hash: a30fa9006769480b8e3a24291799b911
@@ -79,7 +79,7 @@ Assets:
 - Assets/Prefabs_AB/Upgrades/HealthyDay/HealthyDay_UpgradesPuzzle.prefab
 - Assets/Prefabs_AB/Upgrades/HealthyDay/HealthyDay_UpgradeDialogCharacter.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_upgrades_puzzle
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades_puzzlechunksvariants
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_upgrades_puzzle
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades_puzzlechunksvariants

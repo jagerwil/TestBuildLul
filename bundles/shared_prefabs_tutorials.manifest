@@ -3,7 +3,7 @@ CRC: 3557673283
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0181a2a8ec18c89567eac6872b5ef597
+    Hash: 799eb295898f094b362eb89629ccd544
   TypeTreeHash:
     serializedVersion: 2
     Hash: c9f0360eb719f73bff66c7f329355104
@@ -27,5 +27,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs/Tutorials/TutorialHand.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_tutorial_tutopial_hand
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_tutorial_tutopial_hand

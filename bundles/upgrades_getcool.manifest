@@ -3,7 +3,7 @@ CRC: 1428432178
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4606e3b3fd8e23e3a62fcf049a6dcf3e
+    Hash: d4bbf8b959647b25077ae3625df84fea
   TypeTreeHash:
     serializedVersion: 2
     Hash: a30fa9006769480b8e3a24291799b911
@@ -79,8 +79,8 @@ Assets:
 - Assets/Prefabs_AB/Upgrades/GetCool/GetCool_UpgradesSpriteSetup.asset
 - Assets/Prefabs_AB/Upgrades/GetCool/GetCool_UpgradeDialogCharacter.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_upgrades
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_upgrades_puzzle
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades_puzzlechunksvariants
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_upgrades
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_upgrades_puzzle
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades_puzzlechunksvariants

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3010807586
+CRC: 1948695124
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 21b400aed6e7205d6c062dabe12d222f
+    Hash: 757073cf7849f858ed968d604cb4c8ca
   TypeTreeHash:
     serializedVersion: 2
     Hash: 585079d9053f41060aab29c6901955b7
@@ -85,4 +85,5 @@ Assets:
 - Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_IceCreamVanillaReady.prefab
 - Assets/Prefabs_AB/Kitchens/GetCool/Foods/Food_Soda.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_getcool_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials

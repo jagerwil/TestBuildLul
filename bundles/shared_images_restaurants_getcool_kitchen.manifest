@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3816369756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 097f0eb72c44c6ff881968e33767c9c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Restaurants/GetCool/Kitchen/Burger_IT/Burger_tray.png
+Dependencies: []

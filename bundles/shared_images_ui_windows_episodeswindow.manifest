@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4209374311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5434025dc98cca3e12fda2c0871361e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/UI/Windows/EpisodesWindow/episode_selection_base_3S.png
+Dependencies: []

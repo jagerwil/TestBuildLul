@@ -3,7 +3,7 @@ CRC: 3487200712
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 52b7e1de9c7feaf43106e6a91c45c29d
+    Hash: 9139ac3ceb6cd8cde75871877ceed1f9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 93f2fc628f7700bbe43a8d0d65600aa4
@@ -51,4 +51,4 @@ Assets:
 - Assets/Prefabs/Camera/BackCamera.prefab
 - Assets/Prefabs/Camera/DefaultCamera.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_superblur_material
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_superblur_material

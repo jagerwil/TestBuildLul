@@ -3,7 +3,7 @@ CRC: 1358509043
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 16c37749c9d7fe61c3ee1878e879d382
+    Hash: b6d4c652d22a642dccb7f6716b36cc1a
   TypeTreeHash:
     serializedVersion: 2
     Hash: a30fa9006769480b8e3a24291799b911
@@ -79,6 +79,6 @@ Assets:
 - Assets/Prefabs_AB/Upgrades/Shell/Shell_UpgradesPuzzle.prefab
 - Assets/Prefabs_AB/Upgrades/Shell/Shell_UpgradesSpriteSetup.asset
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades_puzzlechunksvariants
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades_puzzlechunksvariants

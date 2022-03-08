@@ -3,7 +3,7 @@ CRC: 854956756
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7b395762234b039195c162aba8f90401
+    Hash: 1369884936652eaf52111ad0127fb84e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 32bc34cbcb92801430a16bc136e38687
@@ -47,5 +47,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs_AB/Visitors/Visitor_GoodMorning_2.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

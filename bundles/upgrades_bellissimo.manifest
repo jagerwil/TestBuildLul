@@ -3,7 +3,7 @@ CRC: 1976278860
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 720742e77b21d9b96efba20cfd175615
+    Hash: a043653cd04a060450964bc01d84e400
   TypeTreeHash:
     serializedVersion: 2
     Hash: a30fa9006769480b8e3a24291799b911
@@ -79,6 +79,6 @@ Assets:
 - Assets/Prefabs_AB/Upgrades/Bellissimo/Bellissimo_UpgradeDialogCharacter.prefab
 - Assets/Prefabs_AB/Upgrades/Bellissimo/Bellissimo_UpgradesPuzzle.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades

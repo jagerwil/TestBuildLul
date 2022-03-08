@@ -3,10 +3,10 @@ CRC: 3169989118
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 999dc0f03f8135c033ec0509decae391
+    Hash: 9967ffb1afa6b552fa1f6f56eab703ee
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a0eaa1010eeb2564a60eacd57f0ad14e
+    Hash: e7380165639aaae1bbffa902d94dac77
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,9 +22,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
@@ -98,15 +98,15 @@ Assets:
 - Assets/Prefabs/UI/RoomNextLevelButton.prefab
 - Assets/Prefabs/UI/StarsUI.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_double_price
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_lock_opened
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_winwindow_fx_bar
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_start_level
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_upgradeswindow
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_window_dialog
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_double_price
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_lock_opened
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_winwindow_fx_bar
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_start_level
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_upgradeswindow
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_window_dialog
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

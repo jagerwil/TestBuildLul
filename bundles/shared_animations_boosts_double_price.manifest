@@ -3,7 +3,7 @@ CRC: 1990765388
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: adac6ff9198064381e33323ed7959030
+    Hash: 2f4382d8dd903601c0d1b78eed3d6af9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9166cbb11327b580a49ae01351dd44ba
@@ -32,4 +32,4 @@ Assets:
 - Assets/Animations/Boosts/double_price/double_price.png
 - Assets/Animations/Boosts/double_price/double_price.json
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

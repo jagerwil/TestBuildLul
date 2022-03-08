@@ -3,10 +3,10 @@ CRC: 1408742716
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23d666c457a06d3363b93e3bf520d1ea
+    Hash: 161e30505ee64a877e26ef7bb32bdce9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f004991072f9e6e86bf30f15b0a74995
+    Hash: d512e863f4d40b85279ba3e0484302a4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,15 +30,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: be6de600a5b30f84cae8938a2e6fe800, type: 3}
 - Class: 114
@@ -175,19 +175,19 @@ Assets:
 - Assets/Prefabs_AB/Common/Room/Windows/EndEpisodeWindow.prefab
 - Assets/Prefabs_AB/Common/Room/Windows/TaskRewardWindow.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/common_kitchen_windows
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/common_windows
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_uiparticlesystem_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_dailyrewardwindow_check_mark
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/windows
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/common_kitchen_windows
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/common_windows
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_uiparticlesystem_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_dailyrewardwindow_check_mark
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/windows

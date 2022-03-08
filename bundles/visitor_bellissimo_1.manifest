@@ -3,7 +3,7 @@ CRC: 2277200582
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4273e17e19cd238f70a808502e6bb296
+    Hash: 60e2f4c03c8152defb6025c2ebf0e140
   TypeTreeHash:
     serializedVersion: 2
     Hash: 32bc34cbcb92801430a16bc136e38687
@@ -47,5 +47,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs_AB/Visitors/Visitor_Bellissimo_1.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

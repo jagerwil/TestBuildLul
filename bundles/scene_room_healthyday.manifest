@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2396856006
+CRC: 3068003117
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23a4f66bbfaca6aca17617f7f7da7bbc
+    Hash: f133ce166896d8976cf8bfb50b24d106
   TypeTreeHash:
     serializedVersion: 2
     Hash: cb9b6e28c18f13369ca26ce5050c4279
@@ -149,10 +149,10 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Room_HealthyDay.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_duster
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_indoor_broom
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_duster
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_indoor_broom
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems

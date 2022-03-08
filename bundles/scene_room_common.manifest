@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2263696043
+CRC: 4098011269
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ade0aa819aef9ffbf66dc45c0d3ecb36
+    Hash: b7c1f66c107401f68c059f29d4047e78
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 544ea210912f5a87a96e324ed795dbc9
+    Hash: 8e0ae04aa568c58bfa1dca0b01b66a57
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,9 +38,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
@@ -187,14 +187,14 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Room_Common.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons_shopicons
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_taskswindow
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui_currencyui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui_events
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/windows_rewardhint
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons_shopicons
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_taskswindow
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui_currencyui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui_events
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/windows_rewardhint

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4134270477
+CRC: 1574474017
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 57bf0f0323f7929b31ba0ae848e8dfe9
+    Hash: 1ddbce0c744a6a77b880130a4ffd497d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2534dfd5ac58d8d378712f454acdd498
@@ -173,11 +173,11 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Room_GoodMorning.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_duster
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_indoor_broom
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_common_spiderweb
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_duster
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_improvement_indoor_broom
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_common_spiderweb
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems

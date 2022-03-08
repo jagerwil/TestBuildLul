@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1915768366
+CRC: 705688012
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 64385dff787a5cc052fe9358ecfda8a9
+    Hash: 88a46eebe037953558034c1ddeb17428
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bb051306eee571aa949a4985e52e9aad
+    Hash: a53343c3e81e0d45e63f0f909d20b3e2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -40,9 +40,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
@@ -243,12 +243,12 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Kitchen_Shell.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/kitchens_shell_prefabs
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_shell_kitchen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_visitororder
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/kitchens_shell_prefabs
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_shell_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_visitororder

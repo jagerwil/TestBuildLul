@@ -3,7 +3,7 @@ CRC: 2991999042
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b39b34ea6bc2172d79f2ec3a87a5bf37
+    Hash: 2ba61e1cf1f386bd15dba545c8bdbe10
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6ddff974c794e3ec031137441f8035f2
@@ -59,4 +59,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs/Upgrades/PuzzleChunksVariants/PuzzleChunk_GetCool_HealthyDay_Variant.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades

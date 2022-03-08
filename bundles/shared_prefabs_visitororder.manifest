@@ -3,7 +3,7 @@ CRC: 88572729
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b4e3b177103eebe62962c8cc54983864
+    Hash: 06ae7eeb9f8dcb6d749347403ac56f76
   TypeTreeHash:
     serializedVersion: 2
     Hash: be965dad951e0f82d304c2bcd3008786
@@ -86,12 +86,12 @@ Assets:
 - Assets/Prefabs/VisitorOrder/VisitorsHolder.prefab
 - Assets/Prefabs/VisitorOrder/OrderView.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_bar
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_ecoboost
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_coins_combo
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_kitchen_sliced
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_bar
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_ecoboost
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_coins_combo
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_kitchen_sliced
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

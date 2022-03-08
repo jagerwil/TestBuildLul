@@ -3,7 +3,7 @@ CRC: 828873491
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af70da03a6d2a28f9d307c5af2c77957
+    Hash: 75954a35333632147f57f64bcacb6ea4
   TypeTreeHash:
     serializedVersion: 2
     Hash: e196d19995a53e10300c534551e66b1b
@@ -85,10 +85,10 @@ Assets:
 - Assets/Prefabs/Restaurant/Kitchen/DoubleCoinBoost.prefab
 - Assets/Prefabs/Restaurant/Kitchen/KitchenSounds.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_waiter_hand
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_ecoboost
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_non_stick
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_scullion
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_inlevel_boosts_waiter_hand
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_ecoboost
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_non_stick
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_kictchen_scullion
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems

@@ -88,6 +88,6 @@ Assets:
 - Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PizzaBaseRaw.prefab
 - Assets/Prefabs_AB/Kitchens/Bellissimo/Foods/Food_PizzaBaseReady.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo

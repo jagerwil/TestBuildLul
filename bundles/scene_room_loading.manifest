@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1114062340
+CRC: 4157434737
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f9e5f86b7c5dc0bc482ca1743b200f9c
+    Hash: 68803d20460cc6f3d84b729dcc2c04d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: cce4eeac8176feaf50d710f5eb09e26c
@@ -93,8 +93,8 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Room_Loading.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_loadingscreen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_loadingscreen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera

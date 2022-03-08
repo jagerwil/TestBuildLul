@@ -3,7 +3,7 @@ CRC: 148069748
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bee71873abac20cad029c4e80ce9b663
+    Hash: 4cf7e3acc02e6d89c5e0ae5bb50e5751
   TypeTreeHash:
     serializedVersion: 2
     Hash: c451239d8c97ea936e4aedd3415ad671
@@ -41,5 +41,5 @@ Assets:
 - Assets/Prefabs/ParticleSystems/fx_new_object.prefab
 - Assets/Prefabs/ParticleSystems/improvement_effect.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials

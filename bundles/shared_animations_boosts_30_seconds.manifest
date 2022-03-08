@@ -3,7 +3,7 @@ CRC: 1490897425
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48c0393cf6e4de9c94eed5ff62cc4fc8
+    Hash: 63a82cffdda1c4cab47f3e4cfca79e1e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9166cbb11327b580a49ae01351dd44ba
@@ -32,4 +32,4 @@ Assets:
 - Assets/Animations/Boosts/30_seconds/30_seconds.json
 - Assets/Animations/Boosts/30_seconds/30_seconds_Atlas.asset
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

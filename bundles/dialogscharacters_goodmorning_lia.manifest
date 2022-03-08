@@ -31,5 +31,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs_AB/Dialogs/DialogsCharacters/GoodMorning/Lia.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_dicedatlases_dialogs_lia
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_dicedatlases_dialogs_lia
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs

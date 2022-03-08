@@ -3,7 +3,7 @@ CRC: 508476749
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c305ac945da680f08b9b11071590a356
+    Hash: 99d3488c79a22ec1398f925852ea5098
   TypeTreeHash:
     serializedVersion: 2
     Hash: a46fce6fa24128ce0a2c5065f9f8a9c3
@@ -141,22 +141,22 @@ Assets:
 - Assets/Prefabs_AB/Common/Kitchen/Windows/CommonElements_IT/CommonBack.prefab
 - Assets/Prefabs_AB/Common/Kitchen/Windows/PauseWindow.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_resources_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_30_seconds
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_nonstick_coating
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_hard_level
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_boosts
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_energywindow
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_start_level_hardlevel
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_winwindow
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/windows
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_resources_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_30_seconds
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_boosts_nonstick_coating
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_hard_level
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_boosts
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_energywindow
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_start_level_hardlevel
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_winwindow
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/windows

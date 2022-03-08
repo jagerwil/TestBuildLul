@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4052601350
+CRC: 1626883748
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -74,8 +74,8 @@ Assets:
 - Assets/Prefabs_AB/Kitchens/GoodMorning/DishBuilding/Dish_FriedEggs.asset
 - Assets/Prefabs_AB/Kitchens/GoodMorning/Foods/Food_JuiceReady.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_kitchen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_kitchen_food
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_kitchen_food
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo

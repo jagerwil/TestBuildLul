@@ -29,6 +29,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs_AB/Dialogs/DialogsCharacters/Bellissimo/Bobby.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_characters_bob
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_dialogcharacters_bellissimo_bobby
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_characters_bob
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_dialogcharacters_bellissimo_bobby
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs

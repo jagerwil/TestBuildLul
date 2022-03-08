@@ -3,7 +3,7 @@ CRC: 2568243698
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b7e3e27033124e5eafc380bc135a387
+    Hash: ab77fdc6f91f20b6fde7bde86dd83f15
   TypeTreeHash:
     serializedVersion: 2
     Hash: 32bc34cbcb92801430a16bc136e38687
@@ -47,5 +47,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs_AB/Visitors/Visitor_GetCool_0.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

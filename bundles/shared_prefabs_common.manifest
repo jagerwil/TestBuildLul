@@ -3,7 +3,7 @@ CRC: 1707606538
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 181f149af194741e219cb3e0e91e8040
+    Hash: 268df8ef2ae65a21639880a05c49d7a0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 48dd33bd683242c431bfd6dd89a25653
@@ -63,6 +63,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs/Common/OutsideLockController.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_lock_opened
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_room_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_lock_opened
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_room_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

@@ -1,14 +1,14 @@
 <root version="0.20.0.0">
   <bundle name="avatars_main" size="154402" hash="3b886e83211e09dca9f719c0de9d08ff" />
   <bundle name="bellissimo_improvements_spritesetup" size="533037" hash="19aa9d4f52c697001da4a7b8dc361ae0" />
-  <bundle name="common_kitchen_windows" size="595772" hash="c305ac945da680f08b9b11071590a356" />
-  <bundle name="common_room_windows" size="787864" hash="23d666c457a06d3363b93e3bf520d1ea" />
-  <bundle name="common_windows" size="3435167" hash="715d9fee2d8e02b50ced75f36f42b041" />
-  <bundle name="dialogs_common_backs" size="1095555" hash="c531dcaf968db6a95278bc848cf56501" />
+  <bundle name="common_kitchen_windows" size="595772" hash="99d3488c79a22ec1398f925852ea5098" />
+  <bundle name="common_room_windows" size="787864" hash="161e30505ee64a877e26ef7bb32bdce9" />
+  <bundle name="common_windows" size="3434832" hash="1b4f27ddd09c3e08ac60f34f4c03d43e" />
+  <bundle name="dialogs_common_backs" size="1095956" hash="e748748aff155a8091b3c0c142901fe4" />
   <bundle name="dialogscharacters_bellissimo_bobby" size="2725" hash="bdbb7ddefc51a6bae7df38b20fa50d9b" />
   <bundle name="dialogscharacters_bellissimo_jane" size="152129" hash="66763b2fdf047929eb1f79cee4ebd65a" />
   <bundle name="dialogscharacters_bellissimo_marco" size="345092" hash="f8567f75377da32ec89435bb3eeb06ec" />
-  <bundle name="dialogscharacters_common_jane" size="530760" hash="e56d1c1bc001e3c758db70fed5bd17f9" />
+  <bundle name="dialogscharacters_common_jane" size="530760" hash="c79e025e599b9282feac6cba6d0ac52a" />
   <bundle name="dialogscharacters_common_janephone" size="178181" hash="fcfc9cd3740e17ca1f3b8e32ce814002" />
   <bundle name="dialogscharacters_common_joshua" size="7247" hash="6566ce2b5b5b418d123d93b3dec752fd" />
   <bundle name="dialogscharacters_common_mike" size="380582" hash="9981e78a189099128bfb180e2f8e0ab1" />
@@ -31,31 +31,31 @@
   <bundle name="healthyday_improvements_spritesetup" size="772936" hash="2409b51afe57d565c07069998be60e42" />
   <bundle name="inbox_icons" size="632456" hash="8526ccc0e515f20ac06c76d6288facf0" />
   <bundle name="kitchens_bellissimo_prefabs" size="919697" hash="1d1077e245d185d230f790a644b4c55b" />
-  <bundle name="kitchens_common" size="66750" hash="273bb58102dbfeb6b6d455a2718417b6" />
-  <bundle name="kitchens_getcool_prefabs" size="1629205" hash="21b400aed6e7205d6c062dabe12d222f" />
-  <bundle name="kitchens_goodmorning_prefabs" size="1201652" hash="9f1c31e74b5f7d9c50c795ba5765bc47" />
+  <bundle name="kitchens_common" size="66750" hash="d76256d661f9ea61ba84b2dc1d13542c" />
+  <bundle name="kitchens_getcool_prefabs" size="1628953" hash="757073cf7849f858ed968d604cb4c8ca" />
+  <bundle name="kitchens_goodmorning_prefabs" size="1206976" hash="9f1c31e74b5f7d9c50c795ba5765bc47" />
   <bundle name="kitchens_healthyday_prefabs" size="1172856" hash="d55e04ac131615a8615988ac7ef00fa3" />
   <bundle name="kitchens_shell_prefabs" size="1484796" hash="abb1dc7eac2712cd988df1dd8a04723a" />
   <bundle name="rewards" size="1686" hash="038884c9cd85c8e0b83343075e9c5164" />
-  <bundle name="scene_appleidtestscene" size="21049" hash="3026302d59638c8e9106764c53e9b613" />
-  <bundle name="scene_emptyscene" size="6431" hash="f67242ece8230f98634fbedc09e264dd" />
-  <bundle name="scene_episode_loading" size="4478580" hash="6348f642c161724b62ea7db68e943ad7" />
-  <bundle name="scene_kitchen_bellissimo" size="2415154" hash="b8d94a9b5e7581ea452c767e7aed6302" />
-  <bundle name="scene_kitchen_common" size="372712" hash="9b69db97fdb7b90d2adbb200e0c2798a" />
-  <bundle name="scene_kitchen_getcool" size="3039336" hash="ee2a0bb89697b1e7c89ebeba9e17d78f" />
-  <bundle name="scene_kitchen_goodmorning" size="1853817" hash="67e01d0dacc237c32257bdd0debdf160" />
-  <bundle name="scene_kitchen_healthyday" size="2114926" hash="cb532c634bc0ced3fd7a8b872d067265" />
-  <bundle name="scene_kitchen_loading" size="703474" hash="610dd17805ce0b5162aa318c168f9644" />
-  <bundle name="scene_kitchen_shell" size="2756566" hash="64385dff787a5cc052fe9358ecfda8a9" />
-  <bundle name="scene_room_bellissimo" size="5616747" hash="f0889ce4d09d0c0a67f08783f3f535a8" />
-  <bundle name="scene_room_common" size="210219" hash="ade0aa819aef9ffbf66dc45c0d3ecb36" />
-  <bundle name="scene_room_getcool" size="5552956" hash="73c7ae23154e736635131895636dfec6" />
-  <bundle name="scene_room_goodmorning" size="5108960" hash="57bf0f0323f7929b31ba0ae848e8dfe9" />
-  <bundle name="scene_room_healthyday" size="7475421" hash="23a4f66bbfaca6aca17617f7f7da7bbc" />
-  <bundle name="scene_room_loading" size="883935" hash="f9e5f86b7c5dc0bc482ca1743b200f9c" />
-  <bundle name="scene_room_shell" size="15296581" hash="9dd8d6f88acb8d73797166268c53c510" />
-  <bundle name="scene_start" size="1452724" hash="fa4b904e606b70b63e94e88c756f5aac" />
-  <bundle name="scene_start_loading" size="367346" hash="1ac4d05ba269de3da14a14763a66c966" />
+  <bundle name="scene_appleidtestscene" size="21052" hash="3026302d59638c8e9106764c53e9b613" />
+  <bundle name="scene_emptyscene" size="6428" hash="bdf87b4bd8d45da1fa37fa3b87ae1fe5" />
+  <bundle name="scene_episode_loading" size="4478582" hash="e9ed1c5f5eda782f9daacd9ff06fa251" />
+  <bundle name="scene_kitchen_bellissimo" size="2415154" hash="088cbd059e5f8026ed55eff39a22659c" />
+  <bundle name="scene_kitchen_common" size="373279" hash="9175d7ceab661f066d15d4f5c5079f4e" />
+  <bundle name="scene_kitchen_getcool" size="3039802" hash="575280e963543904164f797d9a2a2825" />
+  <bundle name="scene_kitchen_goodmorning" size="1859465" hash="85a0d626fe77d64281e474a0175cac00" />
+  <bundle name="scene_kitchen_healthyday" size="2114672" hash="6d381e5ebc20b3b772320bc537887ccd" />
+  <bundle name="scene_kitchen_loading" size="703475" hash="c49a2bafba137e8ce6f25cd807d79ef2" />
+  <bundle name="scene_kitchen_shell" size="2756559" hash="88a46eebe037953558034c1ddeb17428" />
+  <bundle name="scene_room_bellissimo" size="5616804" hash="c6df031dea336d99d96d6066dcdc74bc" />
+  <bundle name="scene_room_common" size="210218" hash="b7c1f66c107401f68c059f29d4047e78" />
+  <bundle name="scene_room_getcool" size="5552957" hash="90d61a762927ff7fd619309604aabf28" />
+  <bundle name="scene_room_goodmorning" size="5108744" hash="1ddbce0c744a6a77b880130a4ffd497d" />
+  <bundle name="scene_room_healthyday" size="7474770" hash="f133ce166896d8976cf8bfb50b24d106" />
+  <bundle name="scene_room_loading" size="883936" hash="68803d20460cc6f3d84b729dcc2c04d1" />
+  <bundle name="scene_room_shell" size="15228231" hash="2bd346c35f6d03dca318026073a25811" />
+  <bundle name="scene_start" size="1452726" hash="60dd9b362aa4bca3657c559908ef49da" />
+  <bundle name="scene_start_loading" size="367346" hash="02479f752d09c4457fb3e0eae1fee62e" />
   <bundle name="shared__thirdparty_spine_gui" size="1904" hash="b35f591bc6008137b69fb9c52ed35c88" />
   <bundle name="shared__thirdparty_spine_runtime_spine_unity_materials" size="1716" hash="bb4851e27e73cb521351b2202dd247ab" />
   <bundle name="shared__thirdparty_spine_runtime_spine_unity_shaders" size="7329" hash="67c1caa24d8feb963632e906d550b1ca" />
@@ -68,9 +68,9 @@
   <bundle name="shared__thirdparty_textmesh_pro_resources_fonts___materials" size="195204" hash="72287b41fb9ce1d9276997bc0d7553c8" />
   <bundle name="shared__thirdparty_textmesh_pro_resources_shaders" size="13317" hash="b29b196f3a5e89282e08011c5f332e97" />
   <bundle name="shared__thirdparty_uiparticlesystem_shaders" size="6469" hash="3cf741c3ce1f61957c84a3044a670d81" />
-  <bundle name="shared_animations_boosts_30_seconds" size="32838" hash="48c0393cf6e4de9c94eed5ff62cc4fc8" />
+  <bundle name="shared_animations_boosts_30_seconds" size="32838" hash="63a82cffdda1c4cab47f3e4cfca79e1e" />
   <bundle name="shared_animations_boosts_3_people" size="19260" hash="be72790e65d57d4236a01febc6208806" />
-  <bundle name="shared_animations_boosts_double_price" size="35099" hash="adac6ff9198064381e33323ed7959030" />
+  <bundle name="shared_animations_boosts_double_price" size="35099" hash="2f4382d8dd903601c0d1b78eed3d6af9" />
   <bundle name="shared_animations_boosts_inlevel_boosts_bar" size="42133" hash="9bb5b3abd15018a716fdc3c07a8fc199" />
   <bundle name="shared_animations_boosts_inlevel_boosts_tasty_time" size="36403" hash="7a9f0088b24920869cbd731bcb8ec67a" />
   <bundle name="shared_animations_boosts_inlevel_boosts_waiter" size="32349" hash="51555bba8aded9d5874b2014d50dd775" />
@@ -78,13 +78,13 @@
   <bundle name="shared_animations_boosts_instant_chef" size="22392" hash="c6d3a4a4cdb890e62de5ddbb27318b1d" />
   <bundle name="shared_animations_boosts_kictchen_ecoboost" size="41369" hash="8c1e74a5f17e2e081910cff724a4575c" />
   <bundle name="shared_animations_boosts_kictchen_non_stick" size="36703" hash="a393a56041b994606d3f66f2bc6cc0dc" />
-  <bundle name="shared_animations_boosts_kictchen_scullion" size="34105" hash="1f16d272c45519250e818424b94b4481" />
+  <bundle name="shared_animations_boosts_kictchen_scullion" size="34105" hash="8bad89def5fb99f208e72469c7bd9250" />
   <bundle name="shared_animations_boosts_nonstick_coating" size="51927" hash="79ce785cd60303732bfbd77eeea8bc79" />
   <bundle name="shared_animations_boosts_second_chance" size="24973" hash="2550862b83511e1138352e3e53008c93" />
   <bundle name="shared_animations_coins_combo" size="30023" hash="8be9fd70a04e002dbfe5b50c48b841ae" />
   <bundle name="shared_animations_common_circle" size="15401" hash="68f869ca41ebbd78c27d657984555c39" />
   <bundle name="shared_animations_dailyrewardwindow_check_mark" size="4686" hash="ae69d2663d0fb892a9522f400b91d7b5" />
-  <bundle name="shared_animations_hard_level" size="227745" hash="497d1beed2adb0af10896b4be42a280a" />
+  <bundle name="shared_animations_hard_level" size="227745" hash="9fb57d3c8e4ee9eb6bd79916bb5c0582" />
   <bundle name="shared_animations_improvement_duster" size="31757" hash="d2efd682edf084f4ea146f195729cd27" />
   <bundle name="shared_animations_improvement_indoor_broom" size="55049" hash="071c842d5766a18636c0a4302afbd421" />
   <bundle name="shared_animations_loading" size="20387" hash="e04b2f7b63526727b536acc65cd8a1d6" />
@@ -92,13 +92,13 @@
   <bundle name="shared_animations_tutorial_tutopial_hand" size="24567" hash="776afda4311a2a9bdcd969f87839b829" />
   <bundle name="shared_animations_ui_giftbox" size="303283" hash="187ed09ad7d3c0e761e2a0d69c0a6149" />
   <bundle name="shared_animations_upgradeswindow_lock_opened" size="20866" hash="f77bd15b7e99e129431c2c23f2d1863d" />
-  <bundle name="shared_animations_upgradeswindow_upgrade_fx" size="43998" hash="77b6305d97de30e46e77145aea621759" />
+  <bundle name="shared_animations_upgradeswindow_upgrade_fx" size="43998" hash="8d6232edc1f3e0ccad63915b5f8ed3a1" />
   <bundle name="shared_animations_winwindow_fx_bar" size="41018" hash="b669fa7821a8d046884517638120b113" />
   <bundle name="shared_animations_winwindow_fx_reward" size="66754" hash="98c676a63c513af800eb93bb9870bed2" />
   <bundle name="shared_dicedatlases_dialogs_lia" size="920945" hash="8391131f58dd0345f4f7a0a9f00be854" />
   <bundle name="shared_images_appleauthsample" size="3387" hash="4fc91e86b5da847d8c3bcdb4f800c065" />
   <bundle name="shared_images_characters_bob" size="436985" hash="d92528d3232126490d01cc789693c512" />
-  <bundle name="shared_images_common" size="2028444" hash="fc137cb17f552e36c25704815740d556" />
+  <bundle name="shared_images_common" size="3011452" hash="a39155bbf2abd0ce86fd9bbc46d7c3c9" />
   <bundle name="shared_images_common_boosts" size="295005" hash="2de94cd693128b0debf29986ffc053dd" />
   <bundle name="shared_images_common_kitchen" size="55154" hash="6687bcab1a5e3739d998b2041f8ed14c" />
   <bundle name="shared_images_common_kitchen_gizmo" size="10685" hash="f88e3d34ebdc0b7735cae21c1e2ce274" />
@@ -109,9 +109,10 @@
   <bundle name="shared_images_dialogcharacters_bellissimo_bobby" size="433069" hash="a07d722c551af8b1c36c9ac1f0b73dd4" />
   <bundle name="shared_images_particlesprites" size="167004" hash="f3ffa009701cf54501a518f3ebadecb3" />
   <bundle name="shared_images_restaurants_common_spiderweb" size="23340" hash="77f6dcf317194eb53f2f9119e186f352" />
+  <bundle name="shared_images_restaurants_getcool_kitchen" size="1611170" hash="097f0eb72c44c6ff881968e33767c9c1" />
   <bundle name="shared_images_restaurants_getcool_upgrades" size="613944" hash="bcd0d8d8a25854c46382710acc767e0e" />
   <bundle name="shared_images_restaurants_getcool_upgrades_puzzle" size="477424" hash="a34e2b62b5ea874ad1969fe1f154c99e" />
-  <bundle name="shared_images_restaurants_goodmorning_kitchen" size="999205" hash="5a95ff5f33555ebbba8e5bd48e9b26a4" />
+  <bundle name="shared_images_restaurants_goodmorning_kitchen" size="1004467" hash="5a95ff5f33555ebbba8e5bd48e9b26a4" />
   <bundle name="shared_images_restaurants_goodmorning_kitchen_food" size="193288" hash="95d118e00b00e6593625c9e9675e422d" />
   <bundle name="shared_images_restaurants_goodmorning_upgrades_puzzle" size="469595" hash="240fff75272c018acfc429a79d88466c" />
   <bundle name="shared_images_restaurants_healthyday_kitchen" size="1147052" hash="6968f37a82f7d00d9167db5dd5a70e06" />
@@ -123,8 +124,8 @@
   <bundle name="shared_images_ui_icons" size="106859" hash="427ba4f81da159fed6395e725a229685" />
   <bundle name="shared_images_ui_icons_shopicons" size="390767" hash="a19fdc77c87736d6b4cfe6f84818b873" />
   <bundle name="shared_images_ui_icons_taskicons" size="287203" hash="fbbc454476d946714551f95140d47e72" />
-  <bundle name="shared_images_ui_kitchen" size="82665" hash="6ef1ce3134e34737f3be235279387ef1" />
-  <bundle name="shared_images_ui_kitchen_sliced" size="34035" hash="640268e6305b13b708c2ddfbd5fffb22" />
+  <bundle name="shared_images_ui_kitchen" size="82642" hash="6ef1ce3134e34737f3be235279387ef1" />
+  <bundle name="shared_images_ui_kitchen_sliced" size="34006" hash="5fa28c917f850191bc03c228f5ac59d6" />
   <bundle name="shared_images_ui_loadingscreen" size="11808" hash="95f2d6bbd38bdb5734df735fddf7ee07" />
   <bundle name="shared_images_ui_roomui" size="113868" hash="9d9420edd3a4376aab4366f744be88cc" />
   <bundle name="shared_images_ui_tutorials" size="43033" hash="8929054046ceb6be0a35b2af8e4f1a05" />
@@ -132,6 +133,7 @@
   <bundle name="shared_images_ui_windows_boosterwindow" size="3226" hash="7b3390999d581c07050cab5c35ec0c2a" />
   <bundle name="shared_images_ui_windows_common" size="135488" hash="ffc9eb08fbfac43a26015829c05f1b58" />
   <bundle name="shared_images_ui_windows_energywindow" size="79206" hash="45b722c2a1fcbec4becbaa23d91cb496" />
+  <bundle name="shared_images_ui_windows_episodeswindow" size="73027" hash="5434025dc98cca3e12fda2c0871361e2" />
   <bundle name="shared_images_ui_windows_shopwindow_sliced" size="47489" hash="f9bc0e73a1edb820fd858504a1efae2d" />
   <bundle name="shared_images_ui_windows_start_level" size="45033" hash="bb01b56ab92201e375f47f0e7a58714b" />
   <bundle name="shared_images_ui_windows_start_level_hardlevel" size="148115" hash="88dc26ec03b6f2852e833f5c4a812ac6" />
@@ -149,19 +151,19 @@
   <bundle name="shared_particlesprites" size="130429" hash="6413038316ef54e5357d9382a66d57c1" />
   <bundle name="shared_prefabs_ab_common" size="3331" hash="7802bf406fde89d10c69f83db750d9b5" />
   <bundle name="shared_prefabs_ab_fonts_notosans" size="331048" hash="f6206f8780bd306d4ef04377baa6e3bd" />
-  <bundle name="shared_prefabs_camera" size="4416" hash="52b7e1de9c7feaf43106e6a91c45c29d" />
-  <bundle name="shared_prefabs_common" size="8342" hash="181f149af194741e219cb3e0e91e8040" />
-  <bundle name="shared_prefabs_dialogs" size="2649" hash="07cf657928150422765638a8e561538c" />
-  <bundle name="shared_prefabs_particlesystems" size="14677" hash="bee71873abac20cad029c4e80ce9b663" />
-  <bundle name="shared_prefabs_restaurant_kitchen" size="17029" hash="af70da03a6d2a28f9d307c5af2c77957" />
+  <bundle name="shared_prefabs_camera" size="4416" hash="9139ac3ceb6cd8cde75871877ceed1f9" />
+  <bundle name="shared_prefabs_common" size="8342" hash="268df8ef2ae65a21639880a05c49d7a0" />
+  <bundle name="shared_prefabs_dialogs" size="2649" hash="568d4cf922d5a42315d3a996cf7ceae8" />
+  <bundle name="shared_prefabs_particlesystems" size="14677" hash="4cf7e3acc02e6d89c5e0ae5bb50e5751" />
+  <bundle name="shared_prefabs_restaurant_kitchen" size="17029" hash="75954a35333632147f57f64bcacb6ea4" />
   <bundle name="shared_prefabs_restaurant_kitchen_bellissimo" size="11271" hash="78c40933d9f6682174e84dd801f800a0" />
-  <bundle name="shared_prefabs_tutorials" size="2698" hash="0181a2a8ec18c89567eac6872b5ef597" />
-  <bundle name="shared_prefabs_ui" size="15145" hash="999dc0f03f8135c033ec0509decae391" />
-  <bundle name="shared_prefabs_ui_currencyui" size="8604" hash="50a720eb36df6f426545623cc00ee556" />
-  <bundle name="shared_prefabs_ui_events" size="5851" hash="205f26a234e95ca5801ed15021250b54" />
-  <bundle name="shared_prefabs_upgrades" size="7587" hash="04111778c2a84669882ea03779402ce6" />
-  <bundle name="shared_prefabs_upgrades_puzzlechunksvariants" size="7662" hash="b39b34ea6bc2172d79f2ec3a87a5bf37" />
-  <bundle name="shared_prefabs_visitororder" size="28410" hash="b4e3b177103eebe62962c8cc54983864" />
+  <bundle name="shared_prefabs_tutorials" size="2698" hash="799eb295898f094b362eb89629ccd544" />
+  <bundle name="shared_prefabs_ui" size="15145" hash="9967ffb1afa6b552fa1f6f56eab703ee" />
+  <bundle name="shared_prefabs_ui_currencyui" size="8604" hash="8ceb03c0c8c1e0d7f27b362ec6158423" />
+  <bundle name="shared_prefabs_ui_events" size="5851" hash="b7fc8e8f3a3da14a8a277f77b94c2c5e" />
+  <bundle name="shared_prefabs_upgrades" size="7587" hash="5e0011a0ee042bfa0e253d99b2b55b71" />
+  <bundle name="shared_prefabs_upgrades_puzzlechunksvariants" size="7662" hash="2ba61e1cf1f386bd15dba545c8bdbe10" />
+  <bundle name="shared_prefabs_visitororder" size="28410" hash="06ae7eeb9f8dcb6d749347403ac56f76" />
   <bundle name="shell_improvements_spritesetup" size="302646" hash="dddca88325f15930f0aabfbb331efb51" />
   <bundle name="shop_icons" size="390362" hash="71d60850b4837849e88c9558a57561ad" />
   <bundle name="sound_common" size="1905784" hash="b45fd361f6d601b22717027d18805b6e" />
@@ -175,8 +177,8 @@
   <bundle name="sound_music_cozy_europe_meta_new" size="776563" hash="3e2ee0f8fce68627ebae8fe5bb6aa55b" />
   <bundle name="sound_music_retro_level" size="825006" hash="b208cec08eeaf3c79847604b65bcab9a" />
   <bundle name="sound_music_retro_meta" size="681623" hash="a9629b554c6f845a5019512d3db1f0e5" />
-  <bundle name="sound_music_start_music" size="529359" hash="700811e5ffec1d2ca35177624dbb7d21" />
-  <bundle name="tutorials" size="50184" hash="4863df178c474cd3543f63ecbae623c4" />
+  <bundle name="sound_music_start_music" size="529359" hash="81cba63cc7fbdab8150996348a9dc252" />
+  <bundle name="tutorials" size="50184" hash="73914274bfb4bd92a09ceed3fb248a0c" />
   <bundle name="tutorials_bellissimo_pizzacooking" size="1687" hash="b30dc728e7c2da03d7822fb8762ea5e9" />
   <bundle name="tutorials_common_levelgoalnotreached" size="1685" hash="ea8d802496daceae80338e5811ce3c5f" />
   <bundle name="tutorials_common_levellimitviolated" size="1674" hash="7211b662017cac9a7cee42a0976f0aae" />
@@ -214,27 +216,27 @@
   <bundle name="tutorials_goodmorning_visitorlimit" size="1633" hash="21319cf7950e827acfd154bae99cd882" />
   <bundle name="tutorials_goodmorning_waiter" size="2401" hash="766320eab2bce46e20b13637df3468a8" />
   <bundle name="tutorials_goodmorning_waitingcustomers" size="1715" hash="564e185a7e74d1d8f6f84cffe45d20f3" />
-  <bundle name="upgrades_bellissimo" size="1031886" hash="720742e77b21d9b96efba20cfd175615" />
-  <bundle name="upgrades_getcool" size="1112657" hash="4606e3b3fd8e23e3a62fcf049a6dcf3e" />
-  <bundle name="upgrades_goodmorning" size="871588" hash="1d6e5f5148ac7801664746415956e50f" />
-  <bundle name="upgrades_healthyday" size="926089" hash="358e26b80c0ee7dafb5a57c6cb9b8e1f" />
-  <bundle name="upgrades_shell" size="1239476" hash="16c37749c9d7fe61c3ee1878e879d382" />
-  <bundle name="visitor_bellissimo_0" size="220285" hash="af10eb1866676ee53a16f0b9cacd0188" />
-  <bundle name="visitor_bellissimo_1" size="137646" hash="4273e17e19cd238f70a808502e6bb296" />
-  <bundle name="visitor_bellissimo_2" size="171239" hash="e606eadba1f7d1d1c39ad63dbb0c312b" />
-  <bundle name="visitor_bellissimo_3" size="154931" hash="b45144b0d76a920389ee171c59d3375e" />
-  <bundle name="visitor_bellissimo_4" size="133688" hash="cdad3b0efff142111bd6b949dd266a7b" />
-  <bundle name="visitor_bellissimo_5" size="143731" hash="9378809586ca8a447107d33618d6e75c" />
-  <bundle name="visitor_bellissimo_6" size="151464" hash="814c49f988dd10a0e80a9b416508a0d8" />
-  <bundle name="visitor_getcool_0" size="170793" hash="6b7e3e27033124e5eafc380bc135a387" />
-  <bundle name="visitor_getcool_1" size="242916" hash="4da4b228275733d090fd1bbc1c479e9a" />
-  <bundle name="visitor_getcool_2" size="218903" hash="589709e463653739a6c4675bbabf3c02" />
-  <bundle name="visitor_goodmorning_0" size="161566" hash="accd4349c538f989b3479031bd927375" />
-  <bundle name="visitor_goodmorning_1" size="164625" hash="59c883f885954314282c56815c93f70a" />
-  <bundle name="visitor_goodmorning_2" size="137792" hash="7b395762234b039195c162aba8f90401" />
+  <bundle name="upgrades_bellissimo" size="1031886" hash="a043653cd04a060450964bc01d84e400" />
+  <bundle name="upgrades_getcool" size="1112657" hash="d4bbf8b959647b25077ae3625df84fea" />
+  <bundle name="upgrades_goodmorning" size="871588" hash="f3c176f5517f3f4f0ee7f5c443f48743" />
+  <bundle name="upgrades_healthyday" size="926089" hash="f7d47a727e2ebc33bfe086563b3f8b83" />
+  <bundle name="upgrades_shell" size="1239476" hash="b6d4c652d22a642dccb7f6716b36cc1a" />
+  <bundle name="visitor_bellissimo_0" size="220285" hash="2c2e747b2976c665464df5c27cd2def3" />
+  <bundle name="visitor_bellissimo_1" size="137646" hash="60e2f4c03c8152defb6025c2ebf0e140" />
+  <bundle name="visitor_bellissimo_2" size="171239" hash="a0e281af01708ef78c787b7854762d7c" />
+  <bundle name="visitor_bellissimo_3" size="154931" hash="702c52957d42e8bbd19a0d99b1f5cae9" />
+  <bundle name="visitor_bellissimo_4" size="133688" hash="d7c6c84fbc08f53ca88aae0777c06d04" />
+  <bundle name="visitor_bellissimo_5" size="143731" hash="b96a520dc7751b538b6120d55050dc4d" />
+  <bundle name="visitor_bellissimo_6" size="151464" hash="272c20dd5422135bdef8fa0ddb0ef936" />
+  <bundle name="visitor_getcool_0" size="170793" hash="ab77fdc6f91f20b6fde7bde86dd83f15" />
+  <bundle name="visitor_getcool_1" size="242916" hash="6ba9baf37f9e7f0c5a0bd38bce3f149f" />
+  <bundle name="visitor_getcool_2" size="218903" hash="09ebf59a51f8e1121e27586059222ac8" />
+  <bundle name="visitor_goodmorning_0" size="161566" hash="f53322c46e852cd4f923a8dba8da2200" />
+  <bundle name="visitor_goodmorning_1" size="164625" hash="c0e4f26e1edac9fabe46acb5a4cab56a" />
+  <bundle name="visitor_goodmorning_2" size="137792" hash="1369884936652eaf52111ad0127fb84e" />
   <bundle name="windows" size="15819" hash="f07db8476a9a47f9b1e0baa1c9ab18a8" />
-  <bundle name="windows_optional" size="1110801" hash="e05cb6b0477837cfd0b140ee856b0fe1" />
+  <bundle name="windows_optional" size="1110801" hash="450e0524b3a8bd05a3c1905a7fea076c" />
   <bundle name="windows_optional_room" size="183465" hash="7e82080cd3924fc3d32e88109e1f5737" />
   <bundle name="windows_rewardhint" size="7602" hash="a07ef56f649a983edd1b83b25c08b651" />
-  <bundle name="HD" size="8385" hash="00000000000000000000000000000000" />
+  <bundle name="HD" size="8416" hash="00000000000000000000000000000000" />
 </root>

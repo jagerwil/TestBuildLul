@@ -3,7 +3,7 @@ CRC: 3749394948
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1d6e5f5148ac7801664746415956e50f
+    Hash: f3c176f5517f3f4f0ee7f5c443f48743
   TypeTreeHash:
     serializedVersion: 2
     Hash: a30fa9006769480b8e3a24291799b911
@@ -79,7 +79,7 @@ Assets:
 - Assets/Prefabs_AB/Upgrades/GoodMorning/GoodMorning_UpgradesSpriteSetup.asset
 - Assets/Prefabs_AB/Upgrades/GoodMorning/GoodMorning_UpgradesPuzzle.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_upgrades_puzzle
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_restaurants_goodmorning_upgrades_puzzle
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_common
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_upgrades

@@ -3,10 +3,10 @@ CRC: 3737926544
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 50a720eb36df6f426545623cc00ee556
+    Hash: 8ceb03c0c8c1e0d7f27b362ec6158423
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d018bfc79bc9fd780b1ba8724804d17d
+    Hash: 1657cfcea72d9b6f6330ff39f976dbbf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,9 +16,9 @@ ClassTypes:
 - Class: 61
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fda61f701b1b4ffabc67b2dc1f49e7ed, type: 3}
 - Class: 114
@@ -60,8 +60,8 @@ Assets:
 - Assets/Prefabs/UI/CurrencyUI/SoftCurrencyUI.prefab
 - Assets/Prefabs/UI/CurrencyUI/HardCurrencyUI.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_leveltarget
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_icons
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_roomui
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ui

@@ -27,5 +27,5 @@ Assets:
 - Assets/!Thirdparty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
   - Fallback.asset
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_fonts
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_resources_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_fonts
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_textmesh_pro_resources_shaders

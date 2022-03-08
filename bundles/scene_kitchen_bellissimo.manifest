@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1894495940
+CRC: 2958757925
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b8d94a9b5e7581ea452c767e7aed6302
+    Hash: 088cbd059e5f8026ed55eff39a22659c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 460fa702327d9002c4148d505dfc7c69
+    Hash: e96028bf5072b5dfb646e4c4637851ed
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,9 +42,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
@@ -239,9 +239,9 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Kitchen_Bellissimo.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen_gizmo
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_visitororder
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_kitchen_gizmo
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_restaurant_kitchen_bellissimo
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_visitororder

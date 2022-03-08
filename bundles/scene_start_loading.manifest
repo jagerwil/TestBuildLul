@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 984935123
+CRC: 2040476798
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1ac4d05ba269de3da14a14763a66c966
+    Hash: 02479f752d09c4457fb3e0eae1fee62e
   TypeTreeHash:
     serializedVersion: 2
     Hash: ef70bea0ac30ec8adb2c89370bee9b10
@@ -79,5 +79,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Start_Loading.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera

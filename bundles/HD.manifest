@@ -1,1197 +1,1207 @@
 ManifestFileVersion: 0
-CRC: 2921224097
+CRC: 2035725987
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: scene_emptyscene
+      Name: shared_animations_boosts_double_price
       Dependencies:
-        Dependency_0: shared_prefabs_camera
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
     Info_1:
-      Name: shared_images_ui_loadingscreen
-      Dependencies: {}
+      Name: tutorials_goodmorning_noovercook_kitchen
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
     Info_2:
-      Name: shared__thirdparty_superblur_shader
+      Name: sound_common
       Dependencies: {}
     Info_3:
+      Name: shared_animations_improvement_duster
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_4:
+      Name: shared_images_common_boosts
+      Dependencies: {}
+    Info_5:
+      Name: shared_images_common
+      Dependencies: {}
+    Info_6:
+      Name: common_windows
+      Dependencies:
+        Dependency_0: shared_images_common_boosts
+        Dependency_1: shared_images_common
+        Dependency_2: shared_images_common_limits
+        Dependency_3: shared_images_ui_windows_energywindow
+        Dependency_4: windows
+        Dependency_5: shared_images_ui_windows_common
+        Dependency_6: shared_materials
+        Dependency_7: shared_prefabs_ab_common
+        Dependency_8: shared_prefabs_tutorials
+        Dependency_9: shared_images_ui_events_subscribersevent_icons
+        Dependency_10: shared_animations_winwindow_fx_reward
+        Dependency_11: shared_animations_ui_giftbox
+        Dependency_12: shared_images_ui_windows_upgradeswindow_upgradecard
+        Dependency_13: shared_animations_loading
+        Dependency_14: shared_images_ui_icons
+        Dependency_15: shared_prefabs_ab_fonts_notosans
+        Dependency_16: shared_materials_particlematerials
+        Dependency_17: shared_images_ui_roomui
+        Dependency_18: shared_prefabs_particlesystems
+        Dependency_19: shared_animations_hard_level
+        Dependency_20: shared_images_ui_windows_upgradeswindow
+        Dependency_21: shared_images_ui_kitchen
+        Dependency_22: shared_animations_upgradeswindow_upgrade_fx
+        Dependency_23: shared_images_common_leveltarget
+        Dependency_24: shared_animations_upgradeswindow_lock_opened
+        Dependency_25: common_kitchen_windows
+        Dependency_26: shared_prefabs_ui
+        Dependency_27: shared_images_windows_lose_lastchance
+        Dependency_28: shared_images_ui_windows_start_level_hardlevel
+        Dependency_29: shared_images_ui_windows_boosterwindow
+        Dependency_30: shared_images_ui_icons_shopicons
+        Dependency_31: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_32: shared_images_ui_windows_winwindow
+        Dependency_33: shared_images_ui_events_subscribersevent_levelstart
+        Dependency_34: shared__thirdparty_spine_runtime_spine_unity_materials
+        Dependency_35: shared__thirdparty_textmesh_pro_resources_shaders
+        Dependency_36: shared_images_ui_windows_shopwindow_sliced
+        Dependency_37: shared_images_common_leveltype
+        Dependency_38: shared_images_ui_windows_episodeswindow
+    Info_7:
       Name: kitchens_healthyday_prefabs
       Dependencies:
         Dependency_0: shared_materials_particlematerials
         Dependency_1: shared_images_restaurants_healthyday_kitchen
         Dependency_2: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_4:
-      Name: shared__thirdparty_spine_runtime_spine_unity_shaders_skeletongraphic
-      Dependencies: {}
-    Info_5:
-      Name: common_windows
-      Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: common_kitchen_windows
-        Dependency_2: shared_materials_particlematerials
-        Dependency_3: shared_images_ui_windows_common
-        Dependency_4: shared_animations_loading
-        Dependency_5: shared_images_ui_kitchen
-        Dependency_6: shared_materials
-        Dependency_7: shared_images_common
-        Dependency_8: shared_animations_upgradeswindow_upgrade_fx
-        Dependency_9: shared_prefabs_ab_fonts_notosans
-        Dependency_10: shared_images_ui_icons
-        Dependency_11: shared_images_common_boosts
-        Dependency_12: shared_images_ui_roomui
-        Dependency_13: shared_animations_hard_level
-        Dependency_14: shared_animations_upgradeswindow_lock_opened
-        Dependency_15: shared_images_ui_windows_start_level_hardlevel
-        Dependency_16: shared_images_ui_windows_winwindow
-        Dependency_17: shared_images_ui_windows_upgradeswindow
-        Dependency_18: shared_images_common_limits
-        Dependency_19: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_20: shared_images_common_leveltarget
-        Dependency_21: shared_prefabs_ab_common
-        Dependency_22: shared_images_common_leveltype
-        Dependency_23: shared_images_ui_windows_energywindow
-        Dependency_24: shared_prefabs_ui
-        Dependency_25: windows
-        Dependency_26: shared_images_windows_lose_lastchance
-        Dependency_27: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_28: shared__thirdparty_textmesh_pro_resources_shaders
-        Dependency_29: shared_images_ui_icons_shopicons
-        Dependency_30: shared_animations_winwindow_fx_reward
-        Dependency_31: shared_prefabs_tutorials
-        Dependency_32: shared_images_ui_windows_upgradeswindow_upgradecard
-        Dependency_33: shared_animations_ui_giftbox
-        Dependency_34: shared_images_ui_windows_shopwindow_sliced
-        Dependency_35: shared_images_ui_windows_boosterwindow
-        Dependency_36: shared_images_ui_events_subscribersevent_icons
-        Dependency_37: shared_images_ui_events_subscribersevent_levelstart
-    Info_6:
-      Name: shared_prefabs_particlesystems
-      Dependencies:
-        Dependency_0: shared_materials_particlematerials
-        Dependency_1: shared_materials
-    Info_7:
-      Name: sound_common
-      Dependencies: {}
     Info_8:
-      Name: shared_images_ui_icons_taskicons
-      Dependencies: {}
+      Name: shared_prefabs_ui_events
+      Dependencies:
+        Dependency_0: shared_images_ui_windows_common
+        Dependency_1: shared_prefabs_ab_common
+        Dependency_2: shared_images_ui_events_subscribersevent_icons
+        Dependency_3: shared_prefabs_ab_fonts_notosans
+        Dependency_4: shared_images_ui_roomui
     Info_9:
-      Name: shared_animations_boosts_kictchen_non_stick
+      Name: upgrades_shell
       Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_0: shared_images_ui_windows_common
+        Dependency_1: shared_prefabs_ab_fonts_notosans
+        Dependency_2: shared_prefabs_upgrades_puzzlechunksvariants
     Info_10:
-      Name: shared_images_restaurants_common_spiderweb
-      Dependencies: {}
-    Info_11:
-      Name: common_kitchen_windows
-      Dependencies:
-        Dependency_0: shared_materials_particlematerials
-        Dependency_1: shared_images_ui_windows_common
-        Dependency_2: shared_materials
-        Dependency_3: shared_images_common
-        Dependency_4: shared_animations_boosts_nonstick_coating
-        Dependency_5: shared_prefabs_ab_fonts_notosans
-        Dependency_6: shared_images_common_boosts
-        Dependency_7: shared_images_ui_roomui
-        Dependency_8: shared_animations_boosts_30_seconds
-        Dependency_9: shared_animations_hard_level
-        Dependency_10: shared_images_ui_windows_start_level_hardlevel
-        Dependency_11: shared_images_ui_windows_winwindow
-        Dependency_12: shared_images_common_leveltarget
-        Dependency_13: shared_prefabs_ab_common
-        Dependency_14: shared_images_ui_windows_energywindow
-        Dependency_15: shared_prefabs_ui
-        Dependency_16: windows
-        Dependency_17: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_18: shared__thirdparty_textmesh_pro_resources_shaders
-    Info_12:
-      Name: shared_materials_particlematerials
-      Dependencies:
-        Dependency_0: shared_images_particlesprites
-        Dependency_1: shared_particlesprites
-        Dependency_2: shared__thirdparty_uiparticlesystem_shaders
-    Info_13:
-      Name: shared_animations_common_circle
+      Name: shared_animations_coins_combo
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_14:
-      Name: episodes
+    Info_11:
+      Name: shared_images_common_limits
       Dependencies: {}
+    Info_12:
+      Name: shared_images_ui_windows_energywindow
+      Dependencies: {}
+    Info_13:
+      Name: dialogscharacters_common_mikephone
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_14:
+      Name: scene_room_common
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_prefabs_ui_events
+        Dependency_2: shared_prefabs_ab_common
+        Dependency_3: shared_prefabs_ab_fonts_notosans
+        Dependency_4: shared_images_ui_roomui
+        Dependency_5: windows_rewardhint
+        Dependency_6: shared_prefabs_ui
+        Dependency_7: shared_images_ui_icons_shopicons
+        Dependency_8: shared_images_ui_windows_taskswindow
+        Dependency_9: shared_prefabs_ui_currencyui
+        Dependency_10: shared__thirdparty_spine_runtime_spine_unity_shaders
     Info_15:
-      Name: shared_animations_boosts_inlevel_boosts_bar
+      Name: shared_animations_boosts_nonstick_coating
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
     Info_16:
-      Name: shared_images_ui_windows_start_level
-      Dependencies: {}
+      Name: shared_prefabs_visitororder
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_animations_coins_combo
+        Dependency_2: shared_prefabs_ab_fonts_notosans
+        Dependency_3: shared_animations_boosts_inlevel_boosts_bar
+        Dependency_4: shared_images_common_leveltarget
+        Dependency_5: shared_animations_boosts_kictchen_ecoboost
+        Dependency_6: shared_images_ui_kitchen_sliced
+        Dependency_7: shared_images_common_kitchen
+        Dependency_8: shared__thirdparty_spine_runtime_spine_unity_materials
     Info_17:
-      Name: kitchens_goodmorning_prefabs
-      Dependencies:
-        Dependency_0: shared_materials_particlematerials
-        Dependency_1: shared_images_restaurants_goodmorning_kitchen
-        Dependency_2: shared_images_common
-        Dependency_3: shared_images_restaurants_goodmorning_kitchen_food
-        Dependency_4: shared_prefabs_restaurant_kitchen_bellissimo
-    Info_18:
-      Name: shared_images_characters_bob
-      Dependencies: {}
-    Info_19:
-      Name: shared_images_ui_windows_common
-      Dependencies: {}
-    Info_20:
-      Name: tutorials_goodmorning_eggsandtomatoes
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_21:
-      Name: shared_prefabs_dialogs
-      Dependencies: {}
-    Info_22:
-      Name: shared_animations_boosts_kictchen_ecoboost
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_23:
       Name: kitchens_getcool_prefabs
       Dependencies:
         Dependency_0: shared_materials_particlematerials
-    Info_24:
-      Name: shared_images_common_kitchen
+        Dependency_1: shared_images_restaurants_getcool_kitchen
+    Info_18:
+      Name: windows
+      Dependencies:
+        Dependency_0: shared_images_common_boosts
+        Dependency_1: shared_images_ui_windows_common
+        Dependency_2: shared_prefabs_ab_common
+        Dependency_3: shared_images_ui_events_subscribersevent_icons
+        Dependency_4: shared_animations_winwindow_fx_reward
+        Dependency_5: shared_images_ui_icons
+        Dependency_6: shared_prefabs_ab_fonts_notosans
+        Dependency_7: shared_images_ui_windows_winwindow_hardlevel
+        Dependency_8: shared_animations_dailyrewardwindow_check_mark
+        Dependency_9: shared_images_ui_windows_winwindow
+        Dependency_10: shared_images_ui_events_subscribersevent_levelstart
+        Dependency_11: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_19:
+      Name: sound_music_big_city_meta_2
       Dependencies: {}
-    Info_25:
+    Info_20:
+      Name: shared_images_restaurants_common_spiderweb
+      Dependencies: {}
+    Info_21:
       Name: shared_images_restaurants_goodmorning_kitchen
       Dependencies: {}
-    Info_26:
-      Name: shared_images_ui_tutorials_defaultjane
-      Dependencies: {}
-    Info_27:
-      Name: shared_animations_loading
+    Info_22:
+      Name: kitchens_shell_prefabs
       Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_28:
-      Name: dialogscharacters_goodmorning_lia
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-        Dependency_1: shared_dicedatlases_dialogs_lia
-    Info_29:
-      Name: visitor_getcool_0
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_30:
-      Name: shared_animations_boosts_double_price
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_31:
-      Name: shared_prefabs_restaurant_kitchen
-      Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_animations_boosts_kictchen_non_stick
+        Dependency_0: shared_images_common
+        Dependency_1: shared_animations_shell_scallop_sauce_the_plate
         Dependency_2: shared_materials_particlematerials
-        Dependency_3: shared_animations_boosts_kictchen_ecoboost
-        Dependency_4: shared_images_common_kitchen
-        Dependency_5: shared_animations_boosts_inlevel_boosts_waiter_hand
-        Dependency_6: shared_animations_boosts_kictchen_scullion
-    Info_32:
-      Name: kitchens_common
-      Dependencies:
-        Dependency_0: shared_materials_particlematerials
-    Info_33:
-      Name: shared_images_ui_kitchen
+        Dependency_3: shared_images_restaurants_shell_kitchen
+    Info_23:
+      Name: shared_images_ui_windows_common
       Dependencies: {}
-    Info_34:
-      Name: shared_animations_boosts_second_chance
+    Info_24:
+      Name: shared_animations_boosts_30_seconds
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_35:
-      Name: tutorials_common_outofenergy
+    Info_25:
+      Name: shared_images_ui_icons_taskicons
+      Dependencies: {}
+    Info_26:
+      Name: tutorials_goodmorning_combo
       Dependencies:
         Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_36:
+    Info_27:
+      Name: shared_images_room_common
+      Dependencies: {}
+    Info_28:
       Name: shared_materials
       Dependencies:
         Dependency_0: shared_images_particlesprites
         Dependency_1: shared_materials_shaders_reveal
         Dependency_2: shared_images_common_sliced
-    Info_37:
-      Name: shared_prefabs_camera
+    Info_29:
+      Name: shared_prefabs_ab_common
       Dependencies:
-        Dependency_0: shared__thirdparty_superblur_material
+        Dependency_0: shared_animations_boosts_double_price
+        Dependency_1: shared_images_common_boosts
+        Dependency_2: shared_images_common
+        Dependency_3: shared_images_common_limits
+        Dependency_4: shared_animations_boosts_nonstick_coating
+        Dependency_5: shared_animations_boosts_30_seconds
+        Dependency_6: shared_images_ui_icons_taskicons
+        Dependency_7: shared_images_ui_events_subscribersevent_icons
+        Dependency_8: shared_animations_boosts_instant_chef
+        Dependency_9: shared_animations_boosts_3_people
+        Dependency_10: shared_animations_boosts_inlevel_boosts_waiter
+        Dependency_11: shared_animations_boosts_second_chance
+        Dependency_12: shared_images_ui_kitchen
+        Dependency_13: shared_images_common_leveltarget
+        Dependency_14: shared_animations_boosts_inlevel_boosts_tasty_time
+    Info_30:
+      Name: shared_prefabs_tutorials
+      Dependencies:
+        Dependency_0: shared_animations_tutorial_tutopial_hand
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_31:
+      Name: kitchens_bellissimo_prefabs
+      Dependencies:
+        Dependency_0: shared_materials_particlematerials
+        Dependency_1: shared_prefabs_restaurant_kitchen_bellissimo
+        Dependency_2: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_32:
+      Name: shared_images_ui_events_subscribersevent_icons
+      Dependencies: {}
+    Info_33:
+      Name: shared_prefabs_common
+      Dependencies:
+        Dependency_0: shared_images_room_common
+        Dependency_1: shared_prefabs_ab_fonts_notosans
+        Dependency_2: shared_animations_upgradeswindow_lock_opened
+    Info_34:
+      Name: shared_animations_boosts_kictchen_non_stick
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_35:
+      Name: shared_images_restaurants_getcool_upgrades
+      Dependencies: {}
+    Info_36:
+      Name: shared_animations_winwindow_fx_reward
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_37:
+      Name: shared_images_dialogcharacters_bellissimo_bobby
+      Dependencies: {}
     Info_38:
+      Name: shared__thirdparty_textmesh_pro_fonts
+      Dependencies: {}
+    Info_39:
+      Name: shared_images_ui_tutorials
+      Dependencies: {}
+    Info_40:
+      Name: shared_prefabs_restaurant_kitchen
+      Dependencies:
+        Dependency_0: shared_animations_boosts_kictchen_non_stick
+        Dependency_1: shared_materials_particlematerials
+        Dependency_2: shared_prefabs_particlesystems
+        Dependency_3: shared_animations_boosts_kictchen_scullion
+        Dependency_4: shared_animations_boosts_kictchen_ecoboost
+        Dependency_5: shared_animations_boosts_inlevel_boosts_waiter_hand
+        Dependency_6: shared_images_common_kitchen
+    Info_41:
+      Name: shared__thirdparty_spine_runtime_spine_unity_shaders_blendmodes
+      Dependencies: {}
+    Info_42:
+      Name: shared_animations_ui_giftbox
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_43:
+      Name: kitchens_goodmorning_prefabs
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_images_restaurants_goodmorning_kitchen
+        Dependency_2: shared_materials_particlematerials
+        Dependency_3: shared_prefabs_restaurant_kitchen_bellissimo
+        Dependency_4: shared_images_restaurants_goodmorning_kitchen_food
+    Info_44:
+      Name: shared_images_ui_windows_upgradeswindow_upgradecard
+      Dependencies: {}
+    Info_45:
+      Name: tutorials_goodmorning_startnextlevel
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_46:
       Name: shared_animations_boosts_instant_chef
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_39:
-      Name: scene_start_loading
-      Dependencies:
-        Dependency_0: shared_prefabs_camera
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-    Info_40:
-      Name: shared_images_common
-      Dependencies: {}
-    Info_41:
-      Name: shared_animations_coins_combo
+    Info_47:
+      Name: shared_animations_shell_scallop_sauce_the_plate
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_42:
-      Name: dialogscharacters_common_stella
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_43:
+    Info_48:
       Name: visitor_bellissimo_0
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
         Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_44:
-      Name: shared_animations_upgradeswindow_upgrade_fx
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_45:
-      Name: shared_images_restaurants_healthyday_kitchen
-      Dependencies: {}
-    Info_46:
-      Name: shared_animations_boosts_3_people
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_47:
-      Name: kitchens_bellissimo_prefabs
-      Dependencies:
-        Dependency_0: shared_materials_particlematerials
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_2: shared_prefabs_restaurant_kitchen_bellissimo
-    Info_48:
-      Name: shared_images_ui_kitchen_sliced
-      Dependencies: {}
     Info_49:
-      Name: shared_animations_boosts_nonstick_coating
+      Name: shared_animations_loading
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
     Info_50:
-      Name: common_room_windows
+      Name: dialogscharacters_common_stellaphone
       Dependencies:
-        Dependency_0: common_windows
-        Dependency_1: common_kitchen_windows
-        Dependency_2: shared_materials_particlematerials
-        Dependency_3: shared_images_ui_windows_common
-        Dependency_4: shared_materials
-        Dependency_5: shared_images_common
-        Dependency_6: shared_prefabs_ab_fonts_notosans
-        Dependency_7: shared_images_ui_icons
-        Dependency_8: shared_images_ui_roomui
-        Dependency_9: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_10: shared_prefabs_ab_common
-        Dependency_11: shared_prefabs_ui
-        Dependency_12: windows
-        Dependency_13: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_14: shared__thirdparty_uiparticlesystem_shaders
-        Dependency_15: shared_animations_dailyrewardwindow_check_mark
+        Dependency_0: shared_prefabs_dialogs
     Info_51:
-      Name: shop_icons
+      Name: scene_room_healthyday
       Dependencies:
-        Dependency_0: shared_images_ui_icons_shopicons
+        Dependency_0: shared_animations_improvement_duster
+        Dependency_1: shared_images_common
+        Dependency_2: shared_materials
+        Dependency_3: shared_animations_improvement_indoor_broom
+        Dependency_4: shared_prefabs_particlesystems
+        Dependency_5: shared_prefabs_camera
+        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
     Info_52:
+      Name: shared_images_ui_tutorials_defaultjane
+      Dependencies: {}
+    Info_53:
+      Name: sound_music_cozy_europe_meta_new
+      Dependencies: {}
+    Info_54:
+      Name: shared_images_ui_icons
+      Dependencies: {}
+    Info_55:
       Name: shared_prefabs_ab_fonts_notosans
       Dependencies:
         Dependency_0: shared__thirdparty_textmesh_pro_resources_shaders
-    Info_53:
-      Name: shared_images_ui_icons
-      Dependencies: {}
-    Info_54:
-      Name: shared_animations_boosts_inlevel_boosts_waiter_hand
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_55:
-      Name: scene_room_bellissimo
-      Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_materials
-        Dependency_2: shared_prefabs_camera
-        Dependency_3: shared_animations_improvement_indoor_broom
-        Dependency_4: shared_animations_improvement_duster
-        Dependency_5: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_6: shared_prefabs_common
     Info_56:
-      Name: shared_images_common_boosts
-      Dependencies: {}
+      Name: shared_materials_particlematerials
+      Dependencies:
+        Dependency_0: shared_images_particlesprites
+        Dependency_1: shared_particlesprites
+        Dependency_2: shared__thirdparty_uiparticlesystem_shaders
     Info_57:
-      Name: shared_images_ui_roomui
+      Name: shared_images_particlesprites
       Dependencies: {}
     Info_58:
-      Name: shared_animations_improvement_indoor_broom
+      Name: shared_animations_boosts_3_people
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
     Info_59:
-      Name: dialogscharacters_bellissimo_jane
+      Name: tutorials_goodmorning_eggsandjuice
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_60:
+      Name: shared_materials_shaders_reveal
+      Dependencies: {}
+    Info_61:
+      Name: shared_animations_boosts_inlevel_boosts_waiter
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_62:
+      Name: shared_images_ui_windows_winwindow_hardlevel
+      Dependencies: {}
+    Info_63:
+      Name: upgrades_getcool
+      Dependencies:
+        Dependency_0: shared_images_ui_windows_common
+        Dependency_1: shared_images_restaurants_getcool_upgrades
+        Dependency_2: shared_prefabs_ab_fonts_notosans
+        Dependency_3: shared_images_restaurants_getcool_upgrades_puzzle
+        Dependency_4: shared_prefabs_upgrades_puzzlechunksvariants
+    Info_64:
+      Name: shared_animations_improvement_indoor_broom
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_65:
+      Name: shared_images_restaurants_shell_kitchen
+      Dependencies: {}
+    Info_66:
+      Name: shared_images_ui_roomui
+      Dependencies: {}
+    Info_67:
+      Name: episodes
+      Dependencies: {}
+    Info_68:
+      Name: shared_images_restaurants_healthyday_kitchen
+      Dependencies: {}
+    Info_69:
+      Name: tutorials_common_levellost
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_70:
+      Name: rewards
+      Dependencies:
+        Dependency_0: shared_prefabs_ab_common
+        Dependency_1: shared_images_ui_icons
+        Dependency_2: shared_images_ui_icons_shopicons
+    Info_71:
+      Name: shared__thirdparty_spine_gui
+      Dependencies: {}
+    Info_72:
+      Name: shared_animations_boosts_inlevel_boosts_bar
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_73:
+      Name: tutorials_goodmorning_timerlevel
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_74:
+      Name: shared_images_ui_loadingscreen
+      Dependencies: {}
+    Info_75:
+      Name: visitor_bellissimo_3
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_76:
+      Name: shared__thirdparty_spine_runtime_spine_unity_skeletondatamodifierassets_blendmodematerials
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders_blendmodes
+    Info_77:
+      Name: shared_prefabs_particlesystems
+      Dependencies:
+        Dependency_0: shared_materials
+        Dependency_1: shared_materials_particlematerials
+    Info_78:
+      Name: dialogscharacters_getcool_vivien
       Dependencies:
         Dependency_0: shared_prefabs_dialogs
-    Info_60:
+    Info_79:
+      Name: scene_start
+      Dependencies:
+        Dependency_0: shared_images_ui_windows_common
+        Dependency_1: shared_prefabs_ab_fonts_notosans
+        Dependency_2: shared_prefabs_camera
+        Dependency_3: shared_images_start_screen_ui
+    Info_80:
+      Name: shared__thirdparty_superblur_material
+      Dependencies:
+        Dependency_0: shared__thirdparty_superblur_shader
+    Info_81:
+      Name: shared_animations_boosts_second_chance
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_82:
+      Name: sound_music_start_music
+      Dependencies: {}
+    Info_83:
+      Name: dialogs_common_backs
+      Dependencies: {}
+    Info_84:
+      Name: bellissimo_improvements_spritesetup
+      Dependencies: {}
+    Info_85:
+      Name: shared_animations_hard_level
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_86:
+      Name: shared_images_ui_windows_upgradeswindow
+      Dependencies: {}
+    Info_87:
+      Name: tutorials_goodmorning_firsttask
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials
+        Dependency_1: shared_images_ui_tutorials_defaultjane
+        Dependency_2: shared_prefabs_ab_fonts_notosans
+    Info_88:
+      Name: shared_images_ui_kitchen
+      Dependencies: {}
+    Info_89:
       Name: upgrades_goodmorning
       Dependencies:
         Dependency_0: shared_images_ui_windows_common
         Dependency_1: shared_prefabs_ab_fonts_notosans
         Dependency_2: shared_prefabs_upgrades
         Dependency_3: shared_images_restaurants_goodmorning_upgrades_puzzle
-    Info_61:
-      Name: shared_animations_boosts_30_seconds
+    Info_90:
+      Name: shared_animations_upgradeswindow_upgrade_fx
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_62:
-      Name: shared_animations_hard_level
+    Info_91:
+      Name: shared_images_common_leveltarget
+      Dependencies: {}
+    Info_92:
+      Name: dialogscharacters_bellissimo_bobby
       Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_63:
+        Dependency_0: shared_images_dialogcharacters_bellissimo_bobby
+        Dependency_1: shared_images_characters_bob
+        Dependency_2: shared_prefabs_dialogs
+    Info_93:
+      Name: scene_kitchen_common
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_prefabs_ui_events
+        Dependency_2: shared_materials
+        Dependency_3: shared_prefabs_ab_common
+        Dependency_4: shared_images_ui_icons
+        Dependency_5: shared_prefabs_ab_fonts_notosans
+        Dependency_6: shared_materials_particlematerials
+        Dependency_7: shared_animations_boosts_inlevel_boosts_waiter
+        Dependency_8: shared_images_ui_roomui
+        Dependency_9: shared_images_ui_kitchen
+        Dependency_10: shared_images_common_leveltarget
+        Dependency_11: shared_animations_common_circle
+        Dependency_12: shared_animations_boosts_inlevel_boosts_tasty_time
+        Dependency_13: shared_prefabs_ui
+        Dependency_14: shared_prefabs_ui_currencyui
+        Dependency_15: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_16: shared__thirdparty_spine_runtime_spine_unity_materials
+        Dependency_17: shared_images_common_leveltype
+    Info_94:
       Name: shared_animations_boosts_kictchen_scullion
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_64:
-      Name: shared__thirdparty_spine_runtime_spine_unity_shaders_blendmodes
-      Dependencies: {}
-    Info_65:
-      Name: shared_animations_boosts_inlevel_boosts_waiter
+    Info_95:
+      Name: windows_optional
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_images_ui_windows_common
+        Dependency_2: shared_animations_ui_giftbox
+        Dependency_3: shared_prefabs_ab_fonts_notosans
+        Dependency_4: common_kitchen_windows
+        Dependency_5: windows_rewardhint
+        Dependency_6: shared_images_ui_windows_boosterwindow
+        Dependency_7: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_8: shared_images_ui_events_subscribersevent_levelstart
+        Dependency_9: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_96:
+      Name: shared_animations_common_circle
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_66:
-      Name: scene_kitchen_bellissimo
+    Info_97:
+      Name: shared_prefabs_restaurant_kitchen_bellissimo
       Dependencies:
-        Dependency_0: shared_prefabs_restaurant_kitchen
-        Dependency_1: shared_prefabs_camera
-        Dependency_2: shared_prefabs_visitororder
-        Dependency_3: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_4: shared_images_common_kitchen_gizmo
-        Dependency_5: shared_prefabs_restaurant_kitchen_bellissimo
-    Info_67:
-      Name: upgrades_bellissimo
-      Dependencies:
-        Dependency_0: shared_images_ui_windows_common
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_prefabs_upgrades
-    Info_68:
-      Name: shared_animations_upgradeswindow_lock_opened
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_69:
-      Name: shared__thirdparty_spine_runtime_spine_unity_skeletondatamodifierassets_blendmodematerials
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders_blendmodes
-    Info_70:
-      Name: windows_rewardhint
-      Dependencies:
-        Dependency_0: shared_prefabs_ab_fonts_notosans
-        Dependency_1: shared_images_ui_icons
-        Dependency_2: shared_images_common_sliced
-        Dependency_3: windows
-    Info_71:
-      Name: shared_animations_boosts_inlevel_boosts_tasty_time
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_72:
-      Name: shared_images_ui_windows_start_level_hardlevel
-      Dependencies: {}
-    Info_73:
-      Name: shared_prefabs_visitororder
-      Dependencies:
-        Dependency_0: shared_animations_boosts_inlevel_boosts_bar
-        Dependency_1: shared_animations_boosts_kictchen_ecoboost
-        Dependency_2: shared_images_common_kitchen
-        Dependency_3: shared_images_common
-        Dependency_4: shared_animations_coins_combo
-        Dependency_5: shared_images_ui_kitchen_sliced
-        Dependency_6: shared_prefabs_ab_fonts_notosans
-        Dependency_7: shared_images_common_leveltarget
-        Dependency_8: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_74:
-      Name: shared_images_ui_windows_winwindow_hardlevel
-      Dependencies: {}
-    Info_75:
-      Name: shared_images_particlesprites
-      Dependencies: {}
-    Info_76:
-      Name: visitor_goodmorning_0
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_77:
-      Name: shared_prefabs_upgrades
-      Dependencies:
-        Dependency_0: shared_animations_upgradeswindow_upgrade_fx
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_animations_upgradeswindow_lock_opened
-        Dependency_3: shared_images_ui_windows_upgradeswindow
-        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_5: shared_images_ui_windows_upgradeswindow_upgradecard
-    Info_78:
-      Name: shared_animations_improvement_duster
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_79:
-      Name: shared_images_ui_windows_winwindow
-      Dependencies: {}
-    Info_80:
-      Name: tutorials_getcool_icecreamcooking
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_81:
-      Name: shared_images_ui_tutorials
-      Dependencies: {}
-    Info_82:
-      Name: shared_images_ui_windows_taskswindow
-      Dependencies: {}
-    Info_83:
-      Name: dialogscharacters_getcool_aizek
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_84:
-      Name: visitor_bellissimo_3
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_85:
-      Name: shared_images_restaurants_getcool_upgrades_puzzle
-      Dependencies: {}
-    Info_86:
-      Name: shared_dicedatlases_dialogs_lia
-      Dependencies: {}
-    Info_87:
-      Name: shared_images_ui_windows_upgradeswindow
-      Dependencies: {}
-    Info_88:
-      Name: tutorials_bellissimo_pizzacooking
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_89:
-      Name: scene_room_goodmorning
-      Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_images_restaurants_common_spiderweb
-        Dependency_2: shared_materials
-        Dependency_3: shared_prefabs_camera
-        Dependency_4: shared_animations_improvement_indoor_broom
-        Dependency_5: shared_animations_improvement_duster
-        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_7: shared_prefabs_common
-    Info_90:
+        Dependency_0: shared_materials_particlematerials
+        Dependency_1: shared_prefabs_particlesystems
+    Info_98:
       Name: shared__thirdparty_textmesh_pro_resources_fonts___materials
       Dependencies:
         Dependency_0: shared__thirdparty_textmesh_pro_fonts
         Dependency_1: shared__thirdparty_textmesh_pro_resources_shaders
-    Info_91:
-      Name: dialogscharacters_common_jane
+    Info_99:
+      Name: shared_images_restaurants_getcool_upgrades_puzzle
+      Dependencies: {}
+    Info_100:
+      Name: shared_materials_fx
       Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_92:
+        Dependency_0: shared__thirdparty_uiparticlesystem_shaders
+    Info_101:
+      Name: shared_particlesprites
+      Dependencies: {}
+    Info_102:
+      Name: tutorials_common_sponsorreward
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+        Dependency_1: shared_prefabs_ab_fonts_notosans
+        Dependency_2: shared_images_ui_windows_shopwindow_sliced
+    Info_103:
+      Name: common_room_windows
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: common_windows
+        Dependency_2: windows
+        Dependency_3: shared_images_ui_windows_common
+        Dependency_4: shared_materials
+        Dependency_5: shared_prefabs_ab_common
+        Dependency_6: shared_images_ui_icons
+        Dependency_7: shared_prefabs_ab_fonts_notosans
+        Dependency_8: shared_materials_particlematerials
+        Dependency_9: shared_images_ui_roomui
+        Dependency_10: shared_animations_dailyrewardwindow_check_mark
+        Dependency_11: common_kitchen_windows
+        Dependency_12: shared_prefabs_ui
+        Dependency_13: shared__thirdparty_uiparticlesystem_shaders
+        Dependency_14: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_15: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_104:
+      Name: tutorials_goodmorning_waiter
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_105:
+      Name: shared_animations_upgradeswindow_lock_opened
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_106:
+      Name: shared_animations_boosts_kictchen_ecoboost
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_107:
+      Name: visitor_bellissimo_6
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_108:
+      Name: shared_animations_winwindow_fx_bar
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_109:
+      Name: shared_images_common_sliced
+      Dependencies: {}
+    Info_110:
+      Name: shared_images_restaurants_goodmorning_kitchen_food
+      Dependencies: {}
+    Info_111:
+      Name: dialogscharacters_goodmorning_lia
+      Dependencies:
+        Dependency_0: shared_dicedatlases_dialogs_lia
+        Dependency_1: shared_prefabs_dialogs
+    Info_112:
+      Name: shared__thirdparty_superblur_shader
+      Dependencies: {}
+    Info_113:
+      Name: shared_animations_dailyrewardwindow_check_mark
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_114:
+      Name: healthyday_improvements_spritesetup
+      Dependencies: {}
+    Info_115:
+      Name: shared_animations_tutorial_tutopial_hand
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_116:
+      Name: common_kitchen_windows
+      Dependencies:
+        Dependency_0: shared_images_common_boosts
+        Dependency_1: shared_images_common
+        Dependency_2: shared_images_ui_windows_energywindow
+        Dependency_3: shared_animations_boosts_nonstick_coating
+        Dependency_4: windows
+        Dependency_5: shared_images_ui_windows_common
+        Dependency_6: shared_animations_boosts_30_seconds
+        Dependency_7: shared_materials
+        Dependency_8: shared_prefabs_ab_common
+        Dependency_9: shared_prefabs_ab_fonts_notosans
+        Dependency_10: shared_materials_particlematerials
+        Dependency_11: shared_images_ui_roomui
+        Dependency_12: shared_animations_hard_level
+        Dependency_13: shared_images_common_leveltarget
+        Dependency_14: shared_prefabs_ui
+        Dependency_15: shared_images_ui_windows_start_level_hardlevel
+        Dependency_16: shared_images_ui_windows_winwindow
+        Dependency_17: shared__thirdparty_spine_runtime_spine_unity_materials
+        Dependency_18: shared__thirdparty_textmesh_pro_resources_shaders
+    Info_117:
+      Name: tutorials_goodmorning_hardlevel
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_118:
+      Name: shared_animations_boosts_inlevel_boosts_waiter_hand
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_119:
       Name: upgrades_healthyday
       Dependencies:
         Dependency_0: shared_images_ui_windows_common
         Dependency_1: shared_prefabs_ab_fonts_notosans
         Dependency_2: shared_images_restaurants_getcool_upgrades_puzzle
         Dependency_3: shared_prefabs_upgrades_puzzlechunksvariants
-    Info_93:
-      Name: shared_images_common_limits
+    Info_120:
+      Name: shared_images_ui_windows_start_level
       Dependencies: {}
-    Info_94:
-      Name: goodmorning_improvements_spritesetup
-      Dependencies: {}
-    Info_95:
-      Name: shared_materials_shaders_reveal
-      Dependencies: {}
-    Info_96:
-      Name: scene_kitchen_goodmorning
+    Info_121:
+      Name: scene_kitchen_healthyday
       Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_materials_particlematerials
-        Dependency_2: shared_images_restaurants_goodmorning_kitchen
-        Dependency_3: shared_prefabs_restaurant_kitchen
-        Dependency_4: shared_prefabs_camera
-        Dependency_5: shared_images_common
-        Dependency_6: shared_prefabs_visitororder
+        Dependency_0: shared_prefabs_visitororder
+        Dependency_1: shared_prefabs_restaurant_kitchen
+        Dependency_2: shared_materials_particlematerials
+        Dependency_3: shared_images_restaurants_healthyday_kitchen
+        Dependency_4: shared_prefabs_particlesystems
+        Dependency_5: shared_prefabs_camera
+        Dependency_6: shared_images_common_kitchen_gizmo
         Dependency_7: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_8: shared_images_common_kitchen_gizmo
-        Dependency_9: shared_images_restaurants_goodmorning_kitchen_food
-    Info_97:
-      Name: shared__thirdparty_spine_runtime_spine_unity_shaders
-      Dependencies: {}
-    Info_98:
-      Name: upgrades_getcool
+    Info_122:
+      Name: windows_rewardhint
       Dependencies:
-        Dependency_0: shared_images_ui_windows_common
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_images_restaurants_getcool_upgrades_puzzle
-        Dependency_3: shared_prefabs_upgrades_puzzlechunksvariants
-        Dependency_4: shared_images_restaurants_getcool_upgrades
-    Info_99:
-      Name: shared_images_common_leveltarget
-      Dependencies: {}
-    Info_100:
-      Name: shared_prefabs_ab_common
-      Dependencies:
-        Dependency_0: shared_images_ui_icons_taskicons
-        Dependency_1: shared_animations_boosts_double_price
-        Dependency_2: shared_images_ui_kitchen
-        Dependency_3: shared_animations_boosts_second_chance
-        Dependency_4: shared_animations_boosts_instant_chef
-        Dependency_5: shared_images_common
-        Dependency_6: shared_animations_boosts_3_people
-        Dependency_7: shared_animations_boosts_nonstick_coating
-        Dependency_8: shared_images_common_boosts
-        Dependency_9: shared_animations_boosts_30_seconds
-        Dependency_10: shared_animations_boosts_inlevel_boosts_waiter
-        Dependency_11: shared_animations_boosts_inlevel_boosts_tasty_time
-        Dependency_12: shared_images_common_limits
-        Dependency_13: shared_images_common_leveltarget
-        Dependency_14: shared_images_ui_events_subscribersevent_icons
-    Info_101:
-      Name: shared_particlesprites
-      Dependencies: {}
-    Info_102:
-      Name: tutorials_goodmorning_eggsandjuice
+        Dependency_0: windows
+        Dependency_1: shared_images_ui_icons
+        Dependency_2: shared_prefabs_ab_fonts_notosans
+        Dependency_3: shared_images_common_sliced
+    Info_123:
+      Name: tutorials_getcool_icecreamcooking
       Dependencies:
         Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_103:
-      Name: dialogscharacters_goodmorning_jane
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_104:
-      Name: visitor_bellissimo_6
+    Info_124:
+      Name: shared_images_appleauthsample
+      Dependencies: {}
+    Info_125:
+      Name: shared_animations_boosts_inlevel_boosts_tasty_time
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_105:
-      Name: shared_images_room_common
+    Info_126:
+      Name: shared_images_ui_kitchen_sliced
       Dependencies: {}
-    Info_106:
-      Name: tutorials_common_levellimitviolated
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_107:
-      Name: scene_start
-      Dependencies:
-        Dependency_0: shared_images_ui_windows_common
-        Dependency_1: shared_prefabs_camera
-        Dependency_2: shared_prefabs_ab_fonts_notosans
-        Dependency_3: shared_images_start_screen_ui
-    Info_108:
-      Name: dialogscharacters_common_mikephone
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_109:
-      Name: shared__thirdparty_textmesh_pro_fonts
+    Info_127:
+      Name: shared_images_common_kitchen
       Dependencies: {}
-    Info_110:
-      Name: dialogs_common_backs
-      Dependencies: {}
-    Info_111:
-      Name: dialogscharacters_bellissimo_bobby
+    Info_128:
+      Name: shared_prefabs_camera
       Dependencies:
-        Dependency_0: shared_images_characters_bob
-        Dependency_1: shared_prefabs_dialogs
-        Dependency_2: shared_images_dialogcharacters_bellissimo_bobby
-    Info_112:
-      Name: shared_images_common_leveltype
-      Dependencies: {}
-    Info_113:
-      Name: rewards
+        Dependency_0: shared__thirdparty_superblur_material
+    Info_129:
+      Name: shared_prefabs_ui
       Dependencies:
-        Dependency_0: shared_images_ui_icons
-        Dependency_1: shared_prefabs_ab_common
-        Dependency_2: shared_images_ui_icons_shopicons
-    Info_114:
-      Name: shared_images_ui_windows_energywindow
-      Dependencies: {}
-    Info_115:
-      Name: scene_episode_loading
-      Dependencies:
-        Dependency_0: shared_images_ui_loadingscreen
-        Dependency_1: shared_prefabs_camera
-        Dependency_2: shared_prefabs_ab_fonts_notosans
-        Dependency_3: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_116:
-      Name: shared_images_common_kitchen_gizmo
-      Dependencies: {}
-    Info_117:
-      Name: tutorials_goodmorning_firsttask
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_images_ui_tutorials
-    Info_118:
-      Name: dialogscharacters_healthyday_leo
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_119:
+        Dependency_0: shared_animations_boosts_double_price
+        Dependency_1: shared_images_ui_windows_common
+        Dependency_2: shared_prefabs_ab_common
+        Dependency_3: shared_images_ui_icons
+        Dependency_4: shared_prefabs_ab_fonts_notosans
+        Dependency_5: shared_images_ui_roomui
+        Dependency_6: shared_images_ui_windows_upgradeswindow
+        Dependency_7: shared_animations_upgradeswindow_lock_opened
+        Dependency_8: shared_animations_winwindow_fx_bar
+        Dependency_9: shared_images_ui_windows_start_level
+        Dependency_10: shared_images_ui_windows_window_dialog
+        Dependency_11: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_130:
       Name: visitor_getcool_2
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
         Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_120:
-      Name: visitor_bellissimo_2
+    Info_131:
+      Name: dialogscharacters_healthyday_leo
       Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_121:
-      Name: shared_prefabs_ui
+        Dependency_0: shared_prefabs_dialogs
+    Info_132:
+      Name: shared_images_windows_lose_lastchance
+      Dependencies: {}
+    Info_133:
+      Name: tutorials_goodmorning_likelevel
       Dependencies:
-        Dependency_0: shared_images_ui_windows_start_level
-        Dependency_1: shared_images_ui_windows_common
-        Dependency_2: shared_animations_boosts_double_price
-        Dependency_3: shared_prefabs_ab_fonts_notosans
-        Dependency_4: shared_images_ui_icons
-        Dependency_5: shared_images_ui_roomui
-        Dependency_6: shared_animations_upgradeswindow_lock_opened
-        Dependency_7: shared_images_ui_windows_upgradeswindow
-        Dependency_8: shared_prefabs_ab_common
-        Dependency_9: shared_images_ui_windows_window_dialog
-        Dependency_10: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_11: shared_animations_winwindow_fx_bar
-    Info_122:
-      Name: shared_images_common_sliced
+        Dependency_0: shared_images_ui_tutorials
+        Dependency_1: shared_images_ui_tutorials_defaultjane
+        Dependency_2: shared_prefabs_ab_fonts_notosans
+        Dependency_3: shared_images_common_leveltarget
+        Dependency_4: shared__thirdparty_textmesh_pro_resources_shaders
+    Info_134:
+      Name: shared__thirdparty_uiparticlesystem_shaders
       Dependencies: {}
-    Info_123:
-      Name: scene_room_getcool
-      Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_images_restaurants_common_spiderweb
-        Dependency_2: shared_materials
-        Dependency_3: shared_prefabs_camera
-        Dependency_4: shared_animations_improvement_indoor_broom
-        Dependency_5: shared_animations_improvement_duster
-        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_7: shared_prefabs_common
-    Info_124:
-      Name: getcool_improvements_spritesetup
-      Dependencies: {}
-    Info_125:
-      Name: shared__thirdparty_spine_gui
-      Dependencies: {}
-    Info_126:
-      Name: scene_kitchen_getcool
+    Info_135:
+      Name: kitchens_common
       Dependencies:
         Dependency_0: shared_materials_particlematerials
-        Dependency_1: shared_prefabs_restaurant_kitchen
-        Dependency_2: shared_prefabs_camera
-        Dependency_3: shared_prefabs_visitororder
-        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_5: shared_images_common_kitchen_gizmo
-    Info_127:
-      Name: shared_images_restaurants_goodmorning_kitchen_food
+    Info_136:
+      Name: shared_images_ui_windows_start_level_hardlevel
       Dependencies: {}
-    Info_128:
-      Name: windows
+    Info_137:
+      Name: dialogscharacters_common_joshua
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_prefabs_dialogs
+    Info_138:
+      Name: sound_music_big_city_level
+      Dependencies: {}
+    Info_139:
+      Name: shared_images_ui_windows_boosterwindow
+      Dependencies: {}
+    Info_140:
+      Name: tutorials_goodmorning_burnlimit
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_141:
+      Name: upgrades_bellissimo
       Dependencies:
         Dependency_0: shared_images_ui_windows_common
         Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_images_ui_icons
-        Dependency_3: shared_images_common_boosts
-        Dependency_4: shared_images_ui_windows_winwindow_hardlevel
-        Dependency_5: shared_images_ui_windows_winwindow
-        Dependency_6: shared_prefabs_ab_common
-        Dependency_7: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_8: shared_animations_winwindow_fx_reward
-        Dependency_9: shared_images_ui_events_subscribersevent_icons
-        Dependency_10: shared_animations_dailyrewardwindow_check_mark
-        Dependency_11: shared_images_ui_events_subscribersevent_levelstart
-    Info_129:
-      Name: shared_images_start_screen_ui
-      Dependencies: {}
-    Info_130:
-      Name: shared__thirdparty_superblur_material
-      Dependencies:
-        Dependency_0: shared__thirdparty_superblur_shader
-    Info_131:
-      Name: tutorials
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-        Dependency_1: shared_materials
-        Dependency_2: shared_prefabs_ab_fonts_notosans
-        Dependency_3: shared_images_ui_tutorials
-        Dependency_4: shared_prefabs_ui
-        Dependency_5: shared_prefabs_tutorials
-    Info_132:
+        Dependency_2: shared_prefabs_upgrades
+    Info_142:
       Name: visitor_goodmorning_2
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
         Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_133:
-      Name: shared_images_dialogcharacters_bellissimo_bobby
+    Info_143:
+      Name: shared_images_characters_bob
       Dependencies: {}
-    Info_134:
-      Name: shared_images_ui_windows_window_dialog
+    Info_144:
+      Name: dialogscharacters_shell_jane
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_145:
+      Name: shared_images_ui_icons_shopicons
       Dependencies: {}
-    Info_135:
-      Name: shared_prefabs_common
+    Info_146:
+      Name: tutorials_goodmorning_premiumimprovement
       Dependencies:
-        Dependency_0: shared_prefabs_ab_fonts_notosans
-        Dependency_1: shared_animations_upgradeswindow_lock_opened
-        Dependency_2: shared_images_room_common
-    Info_136:
-      Name: shared_images_windows_lose_lastchance
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_147:
+      Name: shared__thirdparty_spine_runtime_spine_unity_shaders_skeletongraphic
       Dependencies: {}
-    Info_137:
-      Name: visitor_bellissimo_5
+    Info_148:
+      Name: dialogscharacters_common_mrfry
       Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_138:
-      Name: shared_prefabs_restaurant_kitchen_bellissimo
+        Dependency_0: shared_prefabs_dialogs
+    Info_149:
+      Name: scene_room_getcool
       Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_materials_particlematerials
-    Info_139:
+        Dependency_0: shared_animations_improvement_duster
+        Dependency_1: shared_images_restaurants_common_spiderweb
+        Dependency_2: shared_materials
+        Dependency_3: shared_prefabs_common
+        Dependency_4: shared_animations_improvement_indoor_broom
+        Dependency_5: shared_prefabs_particlesystems
+        Dependency_6: shared_prefabs_camera
+        Dependency_7: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_150:
+      Name: sound_music_cozy_europe_level
+      Dependencies: {}
+    Info_151:
+      Name: shared_images_ui_windows_taskswindow
+      Dependencies: {}
+    Info_152:
+      Name: avatars_main
+      Dependencies: {}
+    Info_153:
+      Name: inbox_icons
+      Dependencies: {}
+    Info_154:
+      Name: tutorials_goodmorning_doubleincome
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_155:
+      Name: scene_appleidtestscene
+      Dependencies:
+        Dependency_0: shared_images_appleauthsample
+    Info_156:
       Name: tutorials_common_levelgoalnotreached
       Dependencies:
         Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_140:
-      Name: scene_room_loading
-      Dependencies:
-        Dependency_0: shared_images_ui_loadingscreen
-        Dependency_1: shared_prefabs_camera
-        Dependency_2: shared_prefabs_ab_fonts_notosans
-        Dependency_3: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_141:
-      Name: dialogscharacters_common_mike
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_142:
-      Name: shared_prefabs_ui_currencyui
-      Dependencies:
-        Dependency_0: shared_prefabs_ab_fonts_notosans
-        Dependency_1: shared_images_ui_icons
-        Dependency_2: shared_images_ui_roomui
-        Dependency_3: shared_images_common_leveltarget
-        Dependency_4: shared_prefabs_ui
-    Info_143:
-      Name: scene_kitchen_loading
-      Dependencies:
-        Dependency_0: shared_images_ui_loadingscreen
-        Dependency_1: shared_prefabs_camera
-        Dependency_2: shared_prefabs_ab_fonts_notosans
-        Dependency_3: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_144:
-      Name: tutorials_goodmorning_firststartkitchen
+    Info_157:
+      Name: tutorials_goodmorning_superhardlevel
       Dependencies:
         Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_145:
-      Name: shared__thirdparty_spine_runtime_spine_unity_materials
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders_skeletongraphic
-    Info_146:
-      Name: shared__thirdparty_textmesh_pro_resources_shaders
-      Dependencies: {}
-    Info_147:
-      Name: visitor_getcool_1
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_148:
-      Name: tutorials_common_throwingaway
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_149:
-      Name: dialogscharacters_common_stellaphone
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_150:
+    Info_158:
       Name: visitor_bellissimo_1
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
         Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_151:
-      Name: scene_room_common
-      Dependencies:
-        Dependency_0: shared_images_common
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_images_ui_roomui
-        Dependency_3: windows_rewardhint
-        Dependency_4: shared_images_ui_windows_taskswindow
-        Dependency_5: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_6: shared_prefabs_ab_common
-        Dependency_7: shared_prefabs_ui
-        Dependency_8: shared_prefabs_ui_currencyui
-        Dependency_9: shared_images_ui_icons_shopicons
-        Dependency_10: shared_prefabs_ui_events
-    Info_152:
-      Name: shared_materials_fx
-      Dependencies:
-        Dependency_0: shared__thirdparty_uiparticlesystem_shaders
-    Info_153:
-      Name: dialogscharacters_bellissimo_marco
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_154:
-      Name: bellissimo_improvements_spritesetup
-      Dependencies: {}
-    Info_155:
-      Name: scene_kitchen_common
-      Dependencies:
-        Dependency_0: shared_materials_particlematerials
-        Dependency_1: shared_animations_common_circle
-        Dependency_2: shared_images_ui_kitchen
-        Dependency_3: shared_materials
-        Dependency_4: shared_images_common
-        Dependency_5: shared_prefabs_ab_fonts_notosans
-        Dependency_6: shared_images_ui_icons
-        Dependency_7: shared_images_ui_roomui
-        Dependency_8: shared_animations_boosts_inlevel_boosts_waiter
-        Dependency_9: shared_animations_boosts_inlevel_boosts_tasty_time
-        Dependency_10: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_11: shared_images_common_leveltarget
-        Dependency_12: shared_prefabs_ab_common
-        Dependency_13: shared_images_common_leveltype
-        Dependency_14: shared_prefabs_ui
-        Dependency_15: shared_prefabs_ui_currencyui
-        Dependency_16: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_17: shared_prefabs_ui_events
-    Info_156:
-      Name: tutorials_goodmorning_premiumimprovement
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_157:
-      Name: visitor_goodmorning_1
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_158:
-      Name: shared__thirdparty_uiparticlesystem_shaders
-      Dependencies: {}
     Info_159:
-      Name: tutorials_getcool_milkshakecooking
+      Name: scene_room_loading
       Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_160:
-      Name: dialogscharacters_getcool_vivien
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_161:
-      Name: visitor_bellissimo_4
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
-    Info_162:
-      Name: inbox_icons
-      Dependencies: {}
-    Info_163:
-      Name: scene_room_healthyday
-      Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_materials
+        Dependency_0: shared_prefabs_ab_fonts_notosans
+        Dependency_1: shared_images_ui_loadingscreen
         Dependency_2: shared_prefabs_camera
-        Dependency_3: shared_images_common
-        Dependency_4: shared_animations_improvement_indoor_broom
-        Dependency_5: shared_animations_improvement_duster
-        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_164:
-      Name: dialogscharacters_common_janephone
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_165:
-      Name: healthyday_improvements_spritesetup
+        Dependency_3: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_160:
+      Name: sound_music_retro_level
       Dependencies: {}
-    Info_166:
-      Name: scene_kitchen_healthyday
-      Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_materials_particlematerials
-        Dependency_2: shared_prefabs_restaurant_kitchen
-        Dependency_3: shared_prefabs_camera
-        Dependency_4: shared_images_restaurants_healthyday_kitchen
-        Dependency_5: shared_prefabs_visitororder
-        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_7: shared_images_common_kitchen_gizmo
-    Info_167:
-      Name: tutorials_goodmorning_combo
+    Info_161:
+      Name: tutorials_goodmorning_eggsandtomatoes
       Dependencies:
         Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_168:
-      Name: tutorials_goodmorning_burnlimit
+    Info_162:
+      Name: shared_prefabs_ui_currencyui
       Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_169:
-      Name: tutorials_common_puzzlechunkunlocked
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_170:
-      Name: tutorials_goodmorning_waitingcustomers
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_171:
-      Name: tutorials_common_levellost
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_172:
-      Name: tutorials_goodmorning_startnextlevel
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_173:
-      Name: tutorials_goodmorning_timerlevel
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_174:
-      Name: tutorials_goodmorning_noovercook
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_175:
-      Name: tutorials_goodmorning_noovercook_kitchen
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_176:
-      Name: tutorials_goodmorning_likelevel
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_images_ui_tutorials
-        Dependency_3: shared_images_common_leveltarget
-        Dependency_4: shared__thirdparty_textmesh_pro_resources_shaders
-    Info_177:
-      Name: tutorials_goodmorning_tastytime
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_178:
-      Name: tutorials_goodmorning_visitorlimit
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_179:
-      Name: tutorials_goodmorning_trashlimit
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_180:
-      Name: tutorials_goodmorning_instantcooking
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_181:
-      Name: tutorials_goodmorning_instantcooking_kitchen
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_182:
-      Name: tutorials_goodmorning_doubleincome_kitchen
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_183:
-      Name: tutorials_goodmorning_doubleincome
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_184:
-      Name: tutorials_goodmorning_changestyle
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_185:
-      Name: shared_prefabs_upgrades_puzzlechunksvariants
-      Dependencies:
-        Dependency_0: shared_prefabs_upgrades
-    Info_186:
-      Name: dialogscharacters_healthyday_jane
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_187:
-      Name: tutorials_goodmorning_waiter
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_188:
-      Name: tutorials_goodmorning_hardlevel
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_189:
-      Name: tutorials_goodmorning_superhardlevel
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_190:
-      Name: tutorials_goodmorning_firstupgrade
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_191:
-      Name: tutorials_goodmorning_firstupgrade_kitchen
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_192:
-      Name: dialogscharacters_common_mrfry
-      Dependencies:
-        Dependency_0: shared_prefabs_dialogs
-    Info_193:
-      Name: shared_images_ui_icons_shopicons
-      Dependencies: {}
-    Info_194:
-      Name: tutorials_goodmorning_selectnewepisode
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-    Info_195:
-      Name: shared_images_restaurants_goodmorning_upgrades_puzzle
-      Dependencies: {}
-    Info_196:
-      Name: shared_images_restaurants_getcool_upgrades
-      Dependencies: {}
-    Info_197:
-      Name: tutorials_common_sponsorreward
-      Dependencies:
-        Dependency_0: shared_images_ui_tutorials_defaultjane
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_images_ui_windows_shopwindow_sliced
-    Info_198:
-      Name: shared_animations_winwindow_fx_bar
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_199:
-      Name: shared_animations_winwindow_fx_reward
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_200:
-      Name: shared_prefabs_tutorials
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_1: shared_animations_tutorial_tutopial_hand
-    Info_201:
-      Name: shared_images_ui_windows_upgradeswindow_upgradecard
-      Dependencies: {}
-    Info_202:
-      Name: shared_animations_ui_giftbox
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_203:
-      Name: shared_prefabs_ui_events
-      Dependencies:
-        Dependency_0: shared_images_ui_windows_common
+        Dependency_0: shared_images_ui_icons
         Dependency_1: shared_prefabs_ab_fonts_notosans
         Dependency_2: shared_images_ui_roomui
-        Dependency_3: shared_prefabs_ab_common
-        Dependency_4: shared_images_ui_events_subscribersevent_icons
-    Info_204:
-      Name: windows_optional
+        Dependency_3: shared_images_common_leveltarget
+        Dependency_4: shared_prefabs_ui
+    Info_163:
+      Name: shared_images_common_kitchen_gizmo
+      Dependencies: {}
+    Info_164:
+      Name: scene_episode_loading
       Dependencies:
-        Dependency_0: common_kitchen_windows
-        Dependency_1: shared_images_ui_windows_common
-        Dependency_2: shared_images_common
-        Dependency_3: shared_prefabs_ab_fonts_notosans
-        Dependency_4: windows_rewardhint
-        Dependency_5: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_materials
-        Dependency_7: shared_animations_ui_giftbox
-        Dependency_8: shared_images_ui_windows_boosterwindow
-        Dependency_9: shared_images_ui_events_subscribersevent_levelstart
-    Info_205:
+        Dependency_0: shared_prefabs_ab_fonts_notosans
+        Dependency_1: shared_images_ui_loadingscreen
+        Dependency_2: shared_prefabs_camera
+        Dependency_3: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_165:
+      Name: shared_prefabs_upgrades
+      Dependencies:
+        Dependency_0: shared_images_ui_windows_upgradeswindow_upgradecard
+        Dependency_1: shared_prefabs_ab_fonts_notosans
+        Dependency_2: shared_images_ui_windows_upgradeswindow
+        Dependency_3: shared_animations_upgradeswindow_upgrade_fx
+        Dependency_4: shared_animations_upgradeswindow_lock_opened
+        Dependency_5: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_166:
       Name: windows_optional_room
       Dependencies:
         Dependency_0: common_windows
         Dependency_1: shared_images_ui_windows_common
         Dependency_2: shared_prefabs_ab_fonts_notosans
-    Info_206:
-      Name: shared_animations_tutorial_tutopial_hand
+    Info_167:
+      Name: tutorials_common_outofenergy
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_168:
+      Name: tutorials_goodmorning_trashlimit
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_169:
+      Name: shared__thirdparty_spine_runtime_spine_unity_shaders
+      Dependencies: {}
+    Info_170:
+      Name: shared_images_restaurants_goodmorning_upgrades_puzzle
+      Dependencies: {}
+    Info_171:
+      Name: visitor_bellissimo_4
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_207:
-      Name: shared_images_ui_windows_shopwindow_sliced
-      Dependencies: {}
-    Info_208:
-      Name: shared_images_ui_windows_boosterwindow
-      Dependencies: {}
-    Info_209:
-      Name: sound_music_cozy_europe_level
-      Dependencies: {}
-    Info_210:
-      Name: sound_music_retro_meta
-      Dependencies: {}
-    Info_211:
-      Name: sound_music_retro_level
-      Dependencies: {}
-    Info_212:
-      Name: sound_music_cozy_europe_meta_new
-      Dependencies: {}
-    Info_213:
-      Name: sound_music_start_music
-      Dependencies: {}
-    Info_214:
-      Name: sound_music_cozy_europe_meta
-      Dependencies: {}
-    Info_215:
-      Name: shared_images_restaurants_shell_kitchen
-      Dependencies: {}
-    Info_216:
-      Name: kitchens_shell_prefabs
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_172:
+      Name: scene_start_loading
       Dependencies:
-        Dependency_0: shared_materials_particlematerials
-        Dependency_1: shared_images_common
-        Dependency_2: shared_images_restaurants_shell_kitchen
-        Dependency_3: shared_animations_shell_scallop_sauce_the_plate
-    Info_217:
-      Name: upgrades_shell
+        Dependency_0: shared_prefabs_ab_fonts_notosans
+        Dependency_1: shared_prefabs_camera
+    Info_173:
+      Name: getcool_improvements_spritesetup
+      Dependencies: {}
+    Info_174:
+      Name: tutorials_goodmorning_firstupgrade
       Dependencies:
-        Dependency_0: shared_images_ui_windows_common
-        Dependency_1: shared_prefabs_ab_fonts_notosans
-        Dependency_2: shared_prefabs_upgrades_puzzlechunksvariants
-    Info_218:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_175:
+      Name: dialogscharacters_bellissimo_jane
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_176:
+      Name: scene_kitchen_getcool
+      Dependencies:
+        Dependency_0: shared_prefabs_visitororder
+        Dependency_1: shared_prefabs_restaurant_kitchen
+        Dependency_2: shared_materials_particlematerials
+        Dependency_3: shared_prefabs_camera
+        Dependency_4: shared_images_common_kitchen_gizmo
+        Dependency_5: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_6: shared_images_restaurants_getcool_kitchen
+    Info_177:
+      Name: shared_prefabs_upgrades_puzzlechunksvariants
+      Dependencies:
+        Dependency_0: shared_prefabs_upgrades
+    Info_178:
+      Name: tutorials_common_throwingaway
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_179:
+      Name: tutorials_goodmorning_waitingcustomers
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_180:
+      Name: visitor_getcool_0
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_181:
       Name: shell_improvements_spritesetup
       Dependencies: {}
-    Info_219:
-      Name: scene_room_shell
+    Info_182:
+      Name: tutorials_goodmorning_instantcooking
       Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_materials
-        Dependency_2: shared_prefabs_camera
-        Dependency_3: shared_images_common
-        Dependency_4: shared_animations_improvement_indoor_broom
-        Dependency_5: shared_animations_improvement_duster
-        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_7: shared_prefabs_common
-    Info_220:
-      Name: dialogscharacters_shell_jane
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_183:
+      Name: shared_images_ui_windows_winwindow
+      Dependencies: {}
+    Info_184:
+      Name: shared_images_ui_events_subscribersevent_levelstart
+      Dependencies: {}
+    Info_185:
+      Name: dialogscharacters_common_jane
       Dependencies:
         Dependency_0: shared_prefabs_dialogs
-    Info_221:
-      Name: scene_kitchen_shell
+    Info_186:
+      Name: scene_kitchen_loading
       Dependencies:
-        Dependency_0: shared_prefabs_particlesystems
-        Dependency_1: shared_materials_particlematerials
-        Dependency_2: shared_prefabs_restaurant_kitchen
-        Dependency_3: shared_prefabs_camera
-        Dependency_4: shared_images_common
-        Dependency_5: shared_prefabs_visitororder
-        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
-        Dependency_7: shared_images_restaurants_shell_kitchen
-        Dependency_8: kitchens_shell_prefabs
-    Info_222:
-      Name: avatars_main
-      Dependencies: {}
-    Info_223:
-      Name: shared_images_appleauthsample
-      Dependencies: {}
-    Info_224:
-      Name: scene_appleidtestscene
-      Dependencies:
-        Dependency_0: shared_images_appleauthsample
-    Info_225:
-      Name: shared_animations_shell_scallop_sauce_the_plate
-      Dependencies:
-        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
-    Info_226:
-      Name: shared_images_ui_events_subscribersevent_icons
-      Dependencies: {}
-    Info_227:
-      Name: sound_music_big_city_meta
-      Dependencies: {}
-    Info_228:
+        Dependency_0: shared_prefabs_ab_fonts_notosans
+        Dependency_1: shared_images_ui_loadingscreen
+        Dependency_2: shared_prefabs_camera
+        Dependency_3: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_4: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_187:
       Name: sound_music_asian_level
       Dependencies: {}
-    Info_229:
-      Name: dialogscharacters_shell_asami
+    Info_188:
+      Name: shared_dicedatlases_dialogs_lia
+      Dependencies: {}
+    Info_189:
+      Name: tutorials_getcool_milkshakecooking
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_190:
+      Name: shared_images_ui_windows_window_dialog
+      Dependencies: {}
+    Info_191:
+      Name: visitor_goodmorning_0
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_192:
+      Name: shop_icons
+      Dependencies:
+        Dependency_0: shared_images_ui_icons_shopicons
+    Info_193:
+      Name: tutorials_goodmorning_noovercook
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_194:
+      Name: shared_images_start_screen_ui
+      Dependencies: {}
+    Info_195:
+      Name: dialogscharacters_common_mike
       Dependencies:
         Dependency_0: shared_prefabs_dialogs
-    Info_230:
+    Info_196:
+      Name: scene_room_bellissimo
+      Dependencies:
+        Dependency_0: shared_animations_improvement_duster
+        Dependency_1: shared_materials
+        Dependency_2: shared_prefabs_common
+        Dependency_3: shared_animations_improvement_indoor_broom
+        Dependency_4: shared_prefabs_particlesystems
+        Dependency_5: shared_prefabs_camera
+        Dependency_6: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_197:
+      Name: sound_music_big_city_meta
+      Dependencies: {}
+    Info_198:
+      Name: tutorials_goodmorning_changestyle
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_199:
       Name: dialogscharacters_shell_kaito
       Dependencies:
         Dependency_0: shared_prefabs_dialogs
-    Info_231:
-      Name: dialogscharacters_common_joshua
+    Info_200:
+      Name: tutorials_bellissimo_pizzacooking
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_201:
+      Name: tutorials_goodmorning_selectnewepisode
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_202:
+      Name: dialogscharacters_common_stella
       Dependencies:
         Dependency_0: shared_prefabs_dialogs
-        Dependency_1: shared_images_common
-    Info_232:
-      Name: shared_animations_dailyrewardwindow_check_mark
+    Info_203:
+      Name: scene_room_goodmorning
+      Dependencies:
+        Dependency_0: shared_animations_improvement_duster
+        Dependency_1: shared_images_restaurants_common_spiderweb
+        Dependency_2: shared_materials
+        Dependency_3: shared_prefabs_common
+        Dependency_4: shared_animations_improvement_indoor_broom
+        Dependency_5: shared_prefabs_particlesystems
+        Dependency_6: shared_prefabs_camera
+        Dependency_7: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_204:
+      Name: sound_music_cozy_europe_meta
+      Dependencies: {}
+    Info_205:
+      Name: shared__thirdparty_spine_runtime_spine_unity_materials
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders_skeletongraphic
+    Info_206:
+      Name: shared__thirdparty_textmesh_pro_resources_shaders
+      Dependencies: {}
+    Info_207:
+      Name: tutorials_goodmorning_doubleincome_kitchen
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_208:
+      Name: shared_prefabs_dialogs
+      Dependencies: {}
+    Info_209:
+      Name: scene_emptyscene
+      Dependencies:
+        Dependency_0: shared_prefabs_camera
+    Info_210:
+      Name: tutorials_common_levellimitviolated
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_211:
+      Name: tutorials_goodmorning_tastytime
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_212:
+      Name: visitor_bellissimo_2
       Dependencies:
         Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_213:
+      Name: dialogscharacters_getcool_aizek
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_214:
+      Name: scene_room_shell
+      Dependencies:
+        Dependency_0: shared_animations_improvement_duster
+        Dependency_1: shared_images_common
+        Dependency_2: shared_materials
+        Dependency_3: shared_prefabs_common
+        Dependency_4: shared_animations_improvement_indoor_broom
+        Dependency_5: shared_prefabs_particlesystems
+        Dependency_6: shared_prefabs_camera
+        Dependency_7: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_8: shared_images_ui_windows_episodeswindow
+    Info_215:
+      Name: sound_music_retro_meta
+      Dependencies: {}
+    Info_216:
+      Name: tutorials_goodmorning_firststartkitchen
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_217:
+      Name: scene_kitchen_bellissimo
+      Dependencies:
+        Dependency_0: shared_prefabs_visitororder
+        Dependency_1: shared_prefabs_restaurant_kitchen
+        Dependency_2: shared_prefabs_restaurant_kitchen_bellissimo
+        Dependency_3: shared_prefabs_camera
+        Dependency_4: shared_images_common_kitchen_gizmo
+        Dependency_5: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_218:
+      Name: tutorials_common_puzzlechunkunlocked
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_219:
+      Name: tutorials_goodmorning_visitorlimit
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_220:
+      Name: visitor_bellissimo_5
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_221:
+      Name: dialogscharacters_goodmorning_jane
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_222:
+      Name: goodmorning_improvements_spritesetup
+      Dependencies: {}
+    Info_223:
+      Name: tutorials_goodmorning_firstupgrade_kitchen
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_224:
+      Name: dialogscharacters_bellissimo_marco
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_225:
+      Name: scene_kitchen_goodmorning
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_prefabs_visitororder
+        Dependency_2: shared_images_restaurants_goodmorning_kitchen
+        Dependency_3: shared_prefabs_restaurant_kitchen
+        Dependency_4: shared_materials_particlematerials
+        Dependency_5: shared_prefabs_particlesystems
+        Dependency_6: shared_images_restaurants_goodmorning_kitchen_food
+        Dependency_7: shared_prefabs_camera
+        Dependency_8: shared_images_common_kitchen_gizmo
+        Dependency_9: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_226:
+      Name: tutorials
+      Dependencies:
+        Dependency_0: shared_materials
+        Dependency_1: shared_prefabs_tutorials
+        Dependency_2: shared_images_ui_tutorials
+        Dependency_3: shared_images_ui_tutorials_defaultjane
+        Dependency_4: shared_prefabs_ab_fonts_notosans
+        Dependency_5: shared_prefabs_ui
+    Info_227:
+      Name: shared_images_ui_windows_shopwindow_sliced
+      Dependencies: {}
+    Info_228:
+      Name: visitor_getcool_1
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
+    Info_229:
+      Name: dialogscharacters_healthyday_jane
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_230:
+      Name: tutorials_goodmorning_instantcooking_kitchen
+      Dependencies:
+        Dependency_0: shared_images_ui_tutorials_defaultjane
+    Info_231:
+      Name: shared_images_common_leveltype
+      Dependencies: {}
+    Info_232:
+      Name: dialogscharacters_common_janephone
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
     Info_233:
+      Name: scene_kitchen_shell
+      Dependencies:
+        Dependency_0: shared_images_common
+        Dependency_1: shared_prefabs_visitororder
+        Dependency_2: kitchens_shell_prefabs
+        Dependency_3: shared_prefabs_restaurant_kitchen
+        Dependency_4: shared_materials_particlematerials
+        Dependency_5: shared_images_restaurants_shell_kitchen
+        Dependency_6: shared_prefabs_particlesystems
+        Dependency_7: shared_prefabs_camera
+        Dependency_8: shared__thirdparty_spine_runtime_spine_unity_shaders
+    Info_234:
       Name: sound_music_asian_meta
       Dependencies: {}
-    Info_234:
-      Name: shared_images_ui_events_subscribersevent_levelstart
-      Dependencies: {}
     Info_235:
-      Name: sound_music_big_city_meta_2
-      Dependencies: {}
+      Name: visitor_goodmorning_1
+      Dependencies:
+        Dependency_0: shared__thirdparty_spine_runtime_spine_unity_shaders
+        Dependency_1: shared__thirdparty_spine_runtime_spine_unity_materials
     Info_236:
-      Name: sound_music_big_city_level
+      Name: dialogscharacters_shell_asami
+      Dependencies:
+        Dependency_0: shared_prefabs_dialogs
+    Info_237:
+      Name: shared_images_restaurants_getcool_kitchen
+      Dependencies: {}
+    Info_238:
+      Name: shared_images_ui_windows_episodeswindow
       Dependencies: {}

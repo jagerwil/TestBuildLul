@@ -37,6 +37,6 @@ Assets:
 - Assets/Materials/ParticleMaterials/hl4.mat
 - Assets/Materials/ParticleMaterials/steam.mat
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_uiparticlesystem_shaders
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_particlesprites
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_particlesprites
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_uiparticlesystem_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_particlesprites
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_particlesprites

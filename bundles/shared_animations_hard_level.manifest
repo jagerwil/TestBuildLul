@@ -3,7 +3,7 @@ CRC: 4157633903
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 497d1beed2adb0af10896b4be42a280a
+    Hash: 9fb57d3c8e4ee9eb6bd79916bb5c0582
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9166cbb11327b580a49ae01351dd44ba
@@ -32,4 +32,4 @@ Assets:
 - Assets/Animations/Hard_level/Hard_Jane.atlas.txt
 - Assets/Animations/Hard_level/Hard_Jane.skel.bytes
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

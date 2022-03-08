@@ -26,5 +26,5 @@ Assets:
 - Assets/Prefabs/Restaurant/Kitchen/Bellissimo/PastaSmoke.prefab
 - Assets/Prefabs/Restaurant/Kitchen/Bellissimo/CoffeeSmoke.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_particlesystems

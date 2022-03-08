@@ -3,7 +3,7 @@ CRC: 1956077824
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 04111778c2a84669882ea03779402ce6
+    Hash: 5e0011a0ee042bfa0e253d99b2b55b71
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6ddff974c794e3ec031137441f8035f2
@@ -59,9 +59,9 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs/Upgrades/PuzzleChunkOriginal.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_lock_opened
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_upgrade_fx
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_upgradeswindow
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_upgradeswindow_upgradecard
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_materials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_lock_opened
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_animations_upgradeswindow_upgrade_fx
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_upgradeswindow
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_ui_windows_upgradeswindow_upgradecard
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_ab_fonts_notosans

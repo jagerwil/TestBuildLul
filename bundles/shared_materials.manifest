@@ -27,6 +27,6 @@ Assets:
 - Assets/Materials/Shaders/UI-Default_ColorFill.shader
 - Assets/Materials/Shaders/HoleShader.shader
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_sliced
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_images_particlesprites
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_shaders_reveal
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_common_sliced
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_images_particlesprites
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_shaders_reveal

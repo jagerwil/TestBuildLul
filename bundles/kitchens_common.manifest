@@ -3,7 +3,7 @@ CRC: 289809605
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 273bb58102dbfeb6b6d455a2718417b6
+    Hash: d76256d661f9ea61ba84b2dc1d13542c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8c4aa53acea2c4977a8d00b94e03bde3
@@ -45,4 +45,4 @@ Assets:
 - Assets/Prefabs_AB/Kitchens/Common/Timers/RegularTimer.prefab
 - Assets/Prefabs_AB/Kitchens/Common/Timers/BurningTimer.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_materials_particlematerials

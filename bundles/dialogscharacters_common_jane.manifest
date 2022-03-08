@@ -3,7 +3,7 @@ CRC: 3332862328
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e56d1c1bc001e3c758db70fed5bd17f9
+    Hash: c79e025e599b9282feac6cba6d0ac52a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 78b921c2a4bc67dc160080d8ce53918d
@@ -31,4 +31,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs_AB/Dialogs/DialogsCharacters/Common/Jane.prefab
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_dialogs

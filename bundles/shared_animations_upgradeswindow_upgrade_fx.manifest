@@ -3,7 +3,7 @@ CRC: 2331484765
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77b6305d97de30e46e77145aea621759
+    Hash: 8d6232edc1f3e0ccad63915b5f8ed3a1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9166cbb11327b580a49ae01351dd44ba
@@ -32,4 +32,4 @@ Assets:
 - Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx_SkeletonData.asset
 - Assets/Animations/UpgradesWindow/upgrade_fx/upgrade_fx_Atlas.asset
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared__thirdparty_spine_runtime_spine_unity_shaders

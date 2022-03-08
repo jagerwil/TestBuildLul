@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 202576918
+CRC: 2668588854
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f67242ece8230f98634fbedc09e264dd
+    Hash: bdf87b4bd8d45da1fa37fa3b87ae1fe5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5b611e928007cf7c0c6e51dba11cf770
+    Hash: 4ed3ac11a6fc6d360b573ab59d4ff6bb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,9 +24,9 @@ ClassTypes:
 - Class: 104
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
 - Class: 114
@@ -63,4 +63,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/EmptyScene.unity
 Dependencies:
-- D:/Storage/Unity/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
+- C:/Users/Vlad/Source/Cookingscapes/Builds/INT_bundles/HD/shared_prefabs_camera
